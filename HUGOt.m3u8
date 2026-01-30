@@ -1,5 +1,6 @@
 ﻿#EXTM3U
 
+
 #EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png":-1, Canal 1 A24 PARAGUAY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
 
@@ -300,9 +301,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
-#EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png":-1 tvg-id="" tvg-name="Fútbol PY"  group-title="Deportes",Fútbol Paraguay
+#EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png":-1 tvg-id="" tvg-name="Fútbol PY"  group-title="Deportes", 145 Fútbol Paraguay
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
-#EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tigo_logo.svg":-1, TIGO SPORT
+#EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tigo_logo.svg":-1, 144 TIGO SPORT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
