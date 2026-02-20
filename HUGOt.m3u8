@@ -894,3 +894,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/604f81a49ef73300070e554f/master.m3u
 #EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png":-1 tvg-id="63eb9495a8b227000841bf64" tvg-name="MTV Vergüenza ajena"  group-title="MTV en Pluto TV" tvg-chno="658", MTV Vergüenza ajena
 https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6bb17a1f-9f05-11f0-a589-4e80293fc8d6
 https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f3f32318-9f26-11f0-b4b4-125ab71300f
+
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+
+#EXTINF:-1 tvg-id="canal322039" tvg-name="Canal 322039 HD" tvg-logo="https://i.imgur.com/8KQZ4wP.png" group-title="IPTV PREMIUM",Canal 322039 HD
+http://104.238.205.58:9090/322039_.m3u8
