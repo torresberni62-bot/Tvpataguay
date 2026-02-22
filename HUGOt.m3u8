@@ -897,5 +897,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-#EXTINF:-1 tvg-id="canal322039" tvg-name="Canal 322039 HD" tvg-logo="https://i.imgur.com/8KQZ4wP.png" group-title="IPTV PREMIUM",Canal 322039 HD
-http://104.238.205.58:9090/322039_.m3u8
+#EXTINF:-1 tvg-id="canal322039" tvg-name="Canal 322039 HD" tvg-logo="https://i.imgur.com/8KQZ4wP.png" group-title="IPTV PREMIUM",Canal ESPN 1 AR.
+http://199.127.63.143:9090/299274_.m3u8
+
