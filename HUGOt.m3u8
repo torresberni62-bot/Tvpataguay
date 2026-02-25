@@ -913,3 +913,8 @@ http://79.143.17.114:9090/278768_.m3u8
 EXTM3U
 #EXTINF:-1 tvg-id="espn1" tvg-name="ESPN AR 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="DEPORTES",ESPN 1
 http://104.238.222.251:9090/278765_.m3u8
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/latam.xml"
+
+#EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinecanal_logo.png" group-title="🎬 CINE",Cinecanal
+http://104.238.205.28:9090/278462_.m3u8
