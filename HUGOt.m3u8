@@ -972,3 +972,27 @@ logo="https://geo.edge.pontiscloud.com:9002/images/
 title="ARGENTINA",Disney Jr.
 http://190.11.130.46/mnp/disneyjr/output.mpd
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/2944696007343.png" group-title="ARGENTINA",A24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/160/160/0/0/95118087071584.png" group-title="ARGENTINA",A&E
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1b8d5859d4a4f33b80b24184cc1da91:020cd87890a23b81535bd72bc275648f
+https://cdn.trimi.com.ar/live/sm-live/AE/sa_live_dash/AE.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png" group-title="ARGENTINA",AMC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=35e7251476a9482a957e7abfed065f86:bf9a301292298a0fb6e81bf55f4817e8
+https://cdn.trimi.com.ar/live/sm-live/AMC/sa_live_dash/AMC.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="ARGENTINA",América
+https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png" group-title="ARGENTINA",Animal Planet
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0ec7548e754414b865772290b8e4188:cca73b168ed0acc946e89f00bcd51080
+https://cdn.trimi.com.ar/live/sm-live/ANIMAL_PLANET/sa_live_dash/ANIMAL_PLANET.mpd
