@@ -966,3 +966,8 @@ http://104.238.222.251:9090/278765_.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinecanal_logo.png" group-title="🎬 CINE",Cinecanal
 http://104.238.205.28:9090/278462_.m3u8
 
+#EXTINF:-1 tvg-
+logo="https://geo.edge.pontiscloud.com:9002/images/
+70/CH_LOGO/160/160/0/0/4140286707756.png" group-
+title="ARGENTINA",Disney Jr.
+http://190.11.130.46/mnp/disneyjr/output.mpd
