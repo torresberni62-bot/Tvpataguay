@@ -5,7 +5,9 @@
 # ===== SERVIDOR 104.194.8.54 =====
 
 #EXTM3U
-
+########## RAKUTEN TV ##########
+#EXTINF:-1 group-title="RAKUTEN",Rakuten TV (Lista completa)
+https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/m3u/RakutenTV_tv.m3u
 ########## 🎬 RUNTIME CINE ##########
 #EXTINF:-1 tvg-id="runtime-cine" group-title="RUNTIME CINE",Runtime TV y Películas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
