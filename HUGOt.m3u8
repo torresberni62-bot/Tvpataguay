@@ -4,50 +4,48 @@
 
 # ===== SERVIDOR 104.194.8.54 =====
 
-#EXTINF:-1 tvg-id="286012" tvg-name="Cine Terror (Pluto)(p)" tvg-logo="https://via.placeholder.com/300x170.png?text=CH+286012" group-title="SERVER 1",Canal 286012
-http://104.194.8.54:9090/286012_.m3u8
+#EXTM3U
 
-#EXTINF:-1 tvg-id="286011" tvg-name="Cine Suspenso (Pluto)(p) " tvg-logo="https://via.placeholder.com/300x170.png?text=CH+286011" group-title="SERVER 1",Canal 286011
-http://104.194.8.54:9090/286011_.m3u8
+########## 🎬 RUNTIME CINE ##########
+#EXTINF:-1 tvg-id="runtime-cine" group-title="RUNTIME CINE",Runtime TV y Películas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 
-#EXTINF:-1 tvg-id="286003" tvg-name="Cine Romance (Pluto)(p)" tvg-logo="https://via.placeholder.com/300x170.png?text=CH+286003" group-title="SERVER 1",Canal 286003
-http://104.194.8.54:9090/286003_.m3u8
+#EXTINF:-1 tvg-id="runtime-accion" group-title="RUNTIME CINE",Runtime Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
 
-#EXTINF:-1 tvg-id="286002" tvg-name="Cine Familia (Pluto)(p)" tvg-logo="https://via.placeholder.com/300x170.png?text=CH+286002" group-title="SERVER 1",Canal 286002
-http://104.194.8.54:9090/286002_.m3u8
+#EXTINF:-1 tvg-id="runtime-comedia" group-title="RUNTIME CINE",Runtime Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3057
 
-#EXTINF:-1 tvg-id="286000" tvg-name="Cine Drama (Pluto)(p)" tvg-logo="https://via.placeholder.com/300x170.png?text=CH+286000" group-title="SERVER 1",Canal 286000
-http://104.194.8.54:9090/286000_.m3u8
+#EXTINF:-1 tvg-id="runtime-thriller" group-title="RUNTIME CINE",Runtime Thriller y Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054
 
-#EXTINF:-1 tvg-id="285995" tvg-name="Canal 285995" tvg-logo="https://via.placeholder.com/300x170.png?text=CH+285995" group-title="SERVER 1",Canal 285995
-http://104.194.8.54:9090/285995_.m3u8
+#EXTINF:-1 tvg-id="runtime-crimen" group-title="RUNTIME CINE",Runtime Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 
-#EXTINF:-1 tvg-id="285993" tvg-name="Cine Cl�sico (Pluto)(p)" tvg-logo="https://via.placeholder.com/300x170.png?text=CH+285993" group-title="SERVER 1",Canal 285993
-http://104.194.8.54:9090/285993_.m3u8
+#EXTINF:-1 tvg-id="runtime-romance" group-title="RUNTIME CINE",Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 
-#EXTINF:-1 tvg-id="285992" tvg-name="Cine Acci�n (Pluto)(p)" tvg-logo="https://via.placeholder.com/300x170.png?text=CH+285992" group-title="SERVER 1",Canal 285992
-http://104.194.8.54:9090/285992_.m3u8
-
-#EXTINF:-1 tvg-id="285986" tvg-name="Nuestro Cine (Pluto)(p)" tvg-logo="https://via.placeholder.com/300x170.png?text=CH+285986" group-title="SERVER 1",Canal 285986
-http://104.194.8.54:9090/285986_.m3u8
-
-#EXTINF:-1 tvg-id="285990" tvg-name="Canal 285990" tvg-logo="https://via.placeholder.com/300x170.png?text=CH+285990" group-title="SERVER 1",Canal 285990
-http://104.194.8.54:9090/285990_.m3u8
-
-#EXTINF:-1 tvg-id="285432" tvg-name="Canal 285432" tvg-logo="https://via.placeholder.com/300x170.png?text=CH+285432" group-title="SERVER 1",Canal 285432
-http://104.194.8.54:9090/285432_.m3u8
+#EXTINF:-1 tvg-id="runtime-clasicos" group-title="RUNTIME CINE",Runtime Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 
 
-# ===== SERVIDOR MIX =====
+########## 📺 RUNTIME SERIES ##########
+#EXTINF:-1 tvg-id="runtime-series" group-title="RUNTIME SERIES",Runtime Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
 
-#EXTINF:-1 tvg-id="279343" tvg-name="Canal 279343" tvg-logo="https://via.placeholder.com/300x170.png?text=CH+279343" group-title="SERVER 2",Canal 279343
-http://45.90.106.85:9090/279343_.m3u8
+#EXTINF:-1 tvg-id="runtime-ana" group-title="RUNTIME SERIES",Runtime Ana y los 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
 
-#EXTINF:-1 tvg-id="278753" tvg-name="Canal 278753" tvg-logo="https://via.placeholder.com/300x170.png?text=CH+278753" group-title="SERVER 2",Canal 278753
-http://104.238.205.28:9090/278753_.m3u8
+#EXTINF:-1 tvg-id="runtime-curro" group-title="RUNTIME SERIES",Runtime Curro Jiménez
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
 
-#EXTINF:-1 tvg-id="278521" tvg-name="Canal 278521" tvg-logo="https://via.placeholder.com/300x170.png?text=CH+278521" group-title="SERVER 2",Canal 278521
-http://108.181.135.111:9090/278521_.m3u8
+#EXTINF:-1 tvg-id="runtime-familia" group-title="RUNTIME SERIES",Runtime Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+
+
+########## 🧪 EXTRA ##########
+#EXTINF:-1 tvg-id="runtime-trash" group-title="RUNTIME EXTRA",Runtime Trash
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
 #EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png":-1, Canal 1 A24 PARAGUAY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
 
