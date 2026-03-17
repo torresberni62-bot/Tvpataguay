@@ -5,6 +5,59 @@
 # ===== SERVIDOR 104.194.8.54 =====
 
 #EXTM3U
+#EXTM3U
+
+########## 📡 DOCUMENTALES ##########
+#EXTINF:-1 tvg-id="naturaleza" group-title="DOCUMENTALES",Naturaleza
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+
+#EXTINF:-1 tvg-id="weather-spy" group-title="DOCUMENTALES",Weather Spy
+https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nature-time" group-title="DOCUMENTALES",Nature Time
+https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="cgtn-doc" group-title="DOCUMENTALES",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="oficios" group-title="DOCUMENTALES",Oficios Perdidos
+https://daiconnect.com/live/hls/tvup/rk-oficiosperdidos/.m3u8
+
+#EXTINF:-1 tvg-id="historia" group-title="DOCUMENTALES",Historia y Vida
+https://amg01821-amg01821c22-rakuten-gb-8651.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-rakutengb/playlist.m3u8
+
+
+########## 📰 NOTICIAS ##########
+#EXTINF:-1 tvg-id="euronews" group-title="NOTICIAS",Euronews Español
+https://euronews-live-spa-es.fast.rakuten.tv/live/eds/euronews-es/26034/euronews-es.m3u8
+
+#EXTINF:-1 tvg-id="actualidad360" group-title="NOTICIAS",Actualidad 360
+https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-rakutengb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="reuters" group-title="NOTICIAS",Reuters 60
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg" group-title="NOTICIAS",Bloomberg Originals
+https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg-tv" group-title="NOTICIAS",Bloomberg TV+
+https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cgtn" group-title="NOTICIAS",CGTN Español
+https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="africanews" group-title="NOTICIAS",Africanews
+https://africanews-eng-es.fast.rakuten.tv/live/eds/africanews-en/26036/africanews-en.m3u8
+
+#EXTINF:-1 tvg-id="newsworld" group-title="NOTICIAS",NewsWorld
+https://amg01076-amg01076c25-rakuten-es-8818.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworldspanish-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="elpais" group-title="NOTICIAS",El País
+https://daiconnect.com/live/hls/tvup/rk-elpais/.m3u8
+
+#EXTINF:-1 tvg-id="france24" group-title="NOTICIAS",France 24
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
+
 ########## 🎬 RUNTIME CINE ##########
 #EXTINF:-1 tvg-id="runtime-cine" group-title="RUNTIME CINE",Runtime TV y Películas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
