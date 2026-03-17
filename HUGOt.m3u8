@@ -1,10 +1,58 @@
 ﻿#EXTM3U
 
-#EXTM3U
-
 # ===== SERVIDOR 104.194.8.54 =====
 
 #EXTM3U
+#EXTM3U
+
+#######################
+# 🎬 PELÍCULAS
+#######################
+
+#EXTINF:-1 tvg-id="feel-good-tv" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/c7ff802e-6aa3-4231-8aaf-c8c64b511013.jpeg" group-title="Películas",Feel Good TV
+https://daiconnect.com/live/hls/tvup/rk-feelgood/.m3u8
+
+#EXTINF:-1 tvg-id="grjngo-es" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg" group-title="Películas",Grjngo Western
+https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cine-western-es" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/9d7e65e4-f350-4db2-80ec-461d1ed8371a.jpeg" group-title="Películas",Cine Western
+https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8
+
+
+#######################
+# 📺 SERIES
+#######################
+
+#EXTINF:-1 tvg-id="crime-rakuten-tv" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg" group-title="Series",Crimen
+https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
+
+#EXTINF:-1 tvg-id="aguila-roja-rakuten-tv" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0f724508-ed27-486a-849c-b3c6e9a05e00.jpeg" group-title="Series",Águila Roja
+https://aguila-roja-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7117/master.m3u8
+
+#EXTINF:-1 tvg-id="bbc-series-es" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7ac6b11e-3ef5-48d7-a7b8-2639183af3ab.jpeg" group-title="Series",BBC Series
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="todo-novelas" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/87e940da-d9b1-4e7b-bf1b-499f3b0afe16.jpeg" group-title="Series",Todo Novelas
+https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
+
+
+#######################
+# 😂 ENTRETENIMIENTO
+#######################
+
+#EXTINF:-1 tvg-id="mr-bean-es" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/7ff74f0d-63d9-44f5-99e3-d11bdbf81197.jpeg" group-title="Entretenimiento",Mr. Bean
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="todo-comedia" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/90b320ab-42d4-4a7a-9f7b-643d6c028014.jpeg" group-title="Entretenimiento",Todo Comedia
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+
+
+#######################
+# 🎌 ANIME
+#######################
+
+#EXTINF:-1 tvg-id="animevision" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3ad26428-c55b-4645-8202-c349ccbb52cc.jpeg" group-title="Anime",AnimeVisión
+https://daiconnect.com/live/hls/tvup/rk-animevision/.m3u8
 
 #EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Películas",Pelis Top
 https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
