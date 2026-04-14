@@ -484,3 +484,7 @@ http://79.143.17.114:9090/278768_.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Deportes Espn " tvg-name="Deportes Espn " group-title="TV",Deportes Espn
 https://deportes.ksdjugfsddeports.com:9092/MTg2LjE2LjE2Ny4yMTM=/43_.m3u8?token=xaeua_b7iYMIBtUwo1nI9g&expires=1776235257
+
+#EXTM3U
+#EXTINF:-1,Cerro Porteño vs Junior
+https://www.rojaplayweb.xyz/p/cerro-porteno-vs-junior.html
