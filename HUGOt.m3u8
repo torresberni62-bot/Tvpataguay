@@ -467,24 +467,79 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd?dvr_window_length=30
 
 #EXTM3U
-#EXTINF:-1 tvg-id="espn1" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="DEPORTES",ESPN 1
-https://deportes.ksdjugfsddeports.com:9092/MTg2LjE2LjE2Ny4yMTM=/43_.m3u8?token=xaeua_b7iYMIBtUwo1nI9g&expires=1776235257
 
-#EXTINF:-1 tvg-id="Espn.py" tvg-name="espn " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Fox_Sports_3_logo.png" group-title="DEPORTES",espn
-#EXTVLCOPT:network-caching=1500
-https://8c51.streameasthd.net/global/espn/index.m3u8?token=e8399d1525d4b049646976548b57b9fdf14d0a07-e1-1776242608-1776188608&ip=186.16.167.213
+############################
+# ⚽ ESPN ⚽
+############################
 
-#EXTINF:-1 tvg-id="foxsports1" tvg-name="FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Fox_Sports_1_logo.png" group-title="DEPORTES",FOX SPORTS 1
-http://104.238.205.28:9090/278766_.m3u8
-#EXTINF:-1 tvg-id="foxsports2" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Fox_Sports_2_logo.png" group-title="DEPORTES",FOX SPORTS 2
-http://104.238.205.28:9090/278767_.m3u8
-#EXTINF:-1 tvg-id="foxsports3" tvg-name="FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Fox_Sports_3_logo.png" group-title="DEPORTES",FOX SPORTS 3
-http://79.143.17.114:9090/278768_.m3u8
+#EXTINF:-1 tvg-name="ESPN 1" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png" group-title="⚽ ESPN",ESPN 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/&User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34
+https://edge-live31-hr.cvattv.com.ar/.../ESPN2HD.mpd
 
-#EXTM3U
-#EXTINF:-1 tvg-id="Deportes Espn " tvg-name="Deportes Espn " group-title="TV",Deportes Espn
-https://deportes.ksdjugfsddeports.com:9092/MTg2LjE2LjE2Ny4yMTM=/43_.m3u8?token=xaeua_b7iYMIBtUwo1nI9g&expires=1776235257
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="⚽ ESPN",ESPN 2
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/&User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/71e1ciyrsrkfsc0yen7p2/espn2.json
+https://edge-live31-hr.cvattv.com.ar/.../ESPN2_Arg.mpd
 
-#EXTM3U
-#EXTINF:-1,Cerro Porteño vs Junior
-https://deportes.ksdjugfsddeports.com:9092/MTg2LjE2LjE2Ny4yMTM=/43_.m3u8?token=1or_zjMOA98weB79HoC7pg&expires=1776236755
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="⚽ ESPN",ESPN 3
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/&User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38
+https://edge-live31-hr.cvattv.com.ar/.../ESPN3.mpd
+
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png" group-title="⚽ ESPN",ESPN 4
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/&User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf
+https://edge-live31-hr.cvattv.com.ar/.../ESPNHD.mpd
+
+#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png" group-title="⚽ ESPN",ESPN 5
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/&User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a
+https://edge-live31-hr.cvattv.com.ar/.../ESPN4.mpd
+
+#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99633_dark_360w_270h.png" group-title="⚽ ESPN",ESPN 6
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/&User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888
+https://edge-live31-hr.cvattv.com.ar/.../FoxSports3_UY.mpd
+
+#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91513_dark_360w_270h.png" group-title="⚽ ESPN",ESPN 7
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/&User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888
+https://edge-live31-hr.cvattv.com.ar/.../FoxSports2_UY.mpd
+
+#EXTINF:-1 tvg-name="ESPN PREMIUM" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/logo.png" group-title="⚽ ESPN",ESPN PREMIUM
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/&User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
+https://edge-live31-hr.cvattv.com.ar/.../Fox_Sports_Premiun_HD.mpd
+
+############################
+# ⚽ FOX SPORTS ⚽
+############################
+
+#EXTINF:-1 tvg-name="FOX SPORTS" tvg-logo="https://i.ibb.co/zbWxZ95/fs1.png" group-title="⚽ FOX SPORTS",FOX SPORTS
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/&User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b
+https://edge-live31-hr.cvattv.com.ar/.../FoxSports.mpd
+
+#EXTINF:-1 tvg-name="FOX SPORTS 2" tvg-logo="https://i.ibb.co/YjrQ0CQ/fs2.png" group-title="⚽ FOX SPORTS",FOX SPORTS 2
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/&User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f
+https://edge-live31-hr.cvattv.com.ar/.../FoxSports2HD.mpd
+
+#EXTINF:-1 tvg-name="FOX SPORTS 3" tvg-logo="https://i.ibb.co/SBkkDxq/fs3.png" group-title="⚽ FOX SPORTS",FOX SPORTS 3
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/&User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b
+https://edge-live31-hr.cvattv.com.ar/.../FoxSports3HD.mpd
