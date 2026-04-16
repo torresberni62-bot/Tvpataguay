@@ -475,3 +475,75 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #KODIPROP:inputstream.adaptive.max_bandwidth=800000
 #KODIPROP:inputstream.adaptive.stream_selection_type=lowest
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
+One Futbol:
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",TELEFUTURO
+https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png",C9N
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1443.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/bjfm9sfR/image.png",SNT
+https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png",PARAVISION
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/La-Tele-Canal-11-en-vivo-Online.png",LA TELE
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/BKFTqfpx/image.png",TRECE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/pB0cvBG1/py-Tv-web-2.png",PARAGUAY TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/r2DnTpxP/vnIkhRO.png",ÑANDUTI TV (BAJA)
+https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/s9Qr9gmw/image.png",NPY
+https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/1fL1SsSm/image.png",HEI
+https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",MITV
+https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist.m3u8?admin=nacion
+
+
+############### ⚽ ESPN ⚽ ###############
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png",ESPN 1 (DRM)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34
+https://edge-vod04-sl.cvattv.com.ar/.../ESPN2HD.mpd
+
+#EXTM3U
+
+############### 🇵🇾 TIGO SPORTS 🇵🇾 ###############
+
+#EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png",EVENTO 1 HD (DRM)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
+#EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png",EVENTOS PLUS HD (DRM)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+
+#EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png",EVENTOS 3 HD (DRM)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://magisvideo.com/KEYFLOW/TIGO3.json
+https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=JVMDxRwC4M6u54XZGwnSrlZY/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
+
+#EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png",TIGO EN VIVO
+http://45.170.130.224:8000/play/a04i/index.m3u8
+
+
+############### 🇵🇾 PARAGUAY 🇵🇾 ###############
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/2TSxtJ7/canal-8-villa.png",VISION TV
+https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg",GEN TV
+https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion
