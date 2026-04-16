@@ -466,4 +466,12 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd?dvr_window_length=30
 
+#EXTM3U
 
+#EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT SD" tvg-logo="https://i.ibb.co/bjfm9sfR/image.png" group-title="Paraguay",SNT (Auto LOW)
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:live-caching=1500
+#EXTVLCOPT:http-reconnect=true
+#KODIPROP:inputstream.adaptive.max_bandwidth=800000
+#KODIPROP:inputstream.adaptive.stream_selection_type=lowest
+https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
