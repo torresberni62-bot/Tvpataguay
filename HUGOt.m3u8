@@ -550,11 +550,47 @@ https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacio
 
 #EXTM3U
 
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes",ESPN 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/71e1ciyrsrkfsc0yen7p2/espn2.json?rlkey=gzudy6x2a45avcnnough76kw1&st=bmo7ibra&dl=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
-#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
-https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+#EXTVLCOPT:network-caching=1200
+#EXTVLCOPT:live-caching=1200
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:clock-synchro=0
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+#EXTVLCOPT:network-caching=1200
+#EXTVLCOPT:live-caching=1200
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+#EXTVLCOPT:network-caching=1200
+#EXTVLCOPT:live-caching=1200
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+#EXTVLCOPT:network-caching=1200
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+#EXTVLCOPT:network-caching=1200
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+#EXTVLCOPT:network-caching=1200
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+#EXTVLCOPT:network-caching=1200
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+#EXTVLCOPT:network-caching=1200
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
