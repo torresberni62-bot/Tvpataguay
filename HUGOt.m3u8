@@ -548,79 +548,79 @@ https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=n
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg",GEN TV
 https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion
 
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/latam.xml"
 
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
-#EXTVLCOPT:network-caching=1200
-#EXTVLCOPT:live-caching=1200
+############### 🏆 ESPN 🏆 ###############
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Deportes",ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android TV)
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 #EXTVLCOPT:clock-jitter=0
 #EXTVLCOPT:clock-synchro=0
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
 
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
-#EXTVLCOPT:network-caching=1200
-#EXTVLCOPT:live-caching=1200
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" group-title="Deportes",ESPN 2
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
 
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
-#EXTVLCOPT:network-caching=1200
-#EXTVLCOPT:live-caching=1200
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" group-title="Deportes",ESPN 3
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8
 
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
-#EXTVLCOPT:network-caching=1200
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN 4" group-title="Deportes",ESPN 4
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
 
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
-#EXTVLCOPT:network-caching=1200
+#EXTINF:-1 tvg-id="ESPN5" tvg-name="ESPN 5" group-title="Deportes",ESPN 5
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
 
-#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
-#EXTVLCOPT:network-caching=1200
+#EXTINF:-1 tvg-id="ESPN6" tvg-name="ESPN 6" group-title="Deportes",ESPN 6
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
 
-#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
-#EXTVLCOPT:network-caching=1200
+#EXTINF:-1 tvg-id="ESPN7" tvg-name="ESPN 7" group-title="Deportes",ESPN 7
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
 
-#EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Deportes",ESPN Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
-#EXTVLCOPT:network-caching=1200
+#EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-name="ESPN Premium" group-title="Deportes",ESPN Premium
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:live-caching=8000
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 
-#EXTM3U
+############### ⚽ FOX SPORTS ⚽ ###############
 
-#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Sports",Fox Sports 2
+#EXTINF:-1 tvg-name="Fox Sports 2" group-title="Deportes",Fox Sports 2
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:hls-seek-timeout=5000
-#EXTVLCOPT:hls-timeout=5000
-#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:live-caching=8000
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
 
-
-#EXTINF:-1 tvg-name="Fox Sports 3" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Sports",Fox Sports 3
+#EXTINF:-1 tvg-name="Fox Sports 3" group-title="Deportes",Fox Sports 3
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:hls-seek-timeout=5000
-#EXTVLCOPT:hls-timeout=5000
-#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:live-caching=8000
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 
-#EXTM3U
+############### 🔥 BACKUP 🔥 ###############
 
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Sports",ESPN
+#EXTINF:-1 tvg-name="ESPN Backup" group-title="Backup",ESPN Backup
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:hls-timeout=10000
-#EXTVLCOPT:hls-seek-timeout=10000
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:input-repeat=65535
-https://bGFuZQ.fubohd.com:443/espn/mono.m3u8?token=8d130346974c68b17ddfde40e16aebc1e6640f70-a0-1776396456-1776378456
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
+https://bGFuZQ.fubohd.com:443/espn/mono.m3u8
