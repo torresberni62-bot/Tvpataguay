@@ -555,10 +555,10 @@ https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacio
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Deportes",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android TV)
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=7000
-#EXTVLCOPT:live-caching=7000
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:live-caching=1500
+#KODIPROP:inputstream.adaptive.max_bandwidth=800000
+#KODIPROP:inputstream.adaptive.stream_selection_type=lowest
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" group-title="Deportes",ESPN 2
