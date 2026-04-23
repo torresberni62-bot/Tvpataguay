@@ -642,3 +642,10 @@ http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/327915.m3u8
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/327918.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN (Optimizado)
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:live-caching=1500
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
