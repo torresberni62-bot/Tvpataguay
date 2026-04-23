@@ -655,3 +655,10 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
+
+#EXTINF:-1 group-title="TV",Canal A003 (Optimizado)
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:live-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+http://190.92.10.66:4000/play/a003/index.m3u8
