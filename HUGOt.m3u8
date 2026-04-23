@@ -630,3 +630,9 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 #EXTVLCOPT:clock-synchro=0
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 
+#EXTINF:-1 group-title="TV",Canal 327915
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:live-caching=1500
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/327915.m3u8
