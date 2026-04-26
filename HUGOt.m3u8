@@ -737,3 +737,17 @@ EXTM3U
 #EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
 #EXTVLCOPT:network-caching=5000
 http://209.126.119.148:20102/live/3a2fac51a2434812a44445a1bba81dbd/b52b475339d64b4497dd084f9e2c9b1e/415.m3u8
+
+EXTM3U
+#EXTINF:-1,Canal 420
+#EXTVLCOPT:http-referrer=http://vortex.tv
+#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+#EXTVLCOPT:network-caching=5000
+http://209.126.119.148:20102/live/c3ce8354f6894f56ab66d94fc3ac484a/a1488e717571448aa76bfc9e5746c8ef/416.m3u8
+
+EXTM3U
+#EXTINF:-1,Canal 421
+#EXTVLCOPT:http-referrer=http://vortex.tv
+#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+#EXTVLCOPT:network-caching=5000
+http://209.126.119.148:20102/live/069436786c1545b6bd931c4d0712754d/287d1d9c3d834669b60ee46b8acd836d/420.m3u8
