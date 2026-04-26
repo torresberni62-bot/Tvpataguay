@@ -751,3 +751,10 @@ EXTM3U
 #EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
 #EXTVLCOPT:network-caching=5000
 http://209.126.119.148:20102/live/069436786c1545b6bd931c4d0712754d/287d1d9c3d834669b60ee46b8acd836d/420.m3u8
+
+EXTM3U
+#EXTINF:-1,Canal 422
+#EXTVLCOPT:http-referrer=http://vortex.tv
+#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+#EXTVLCOPT:network-caching=5000
+http://209.126.119.148:20102/live/9ac8c851b41546fdb9cf3ad16f1206d5/715e3051103e40929a4c7b37f68ccd60/409.m3u8
