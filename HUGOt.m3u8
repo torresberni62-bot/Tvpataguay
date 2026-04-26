@@ -700,13 +700,12 @@ http://209.126.119.148:20102/live/8f6fe283f9344b8aaf117d80e6ab8f60/65a98008c8914
 #EXTINF:-1,Canal 414
 #EXTVLCOPT:http-referrer=http://vortex.tv
 #EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.126.119.148:20102/live/b09688771bc342a1b559e31ab06c27d2/047b9ba7f7d54076a2ccc1ef9b00294f/414.m3u8
 
-#EXTM3U
+EXTM3U
 #EXTINF:-1,Canal 415
 #EXTVLCOPT:http-referrer=http://vortex.tv
 #EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
-#EXTVLCOPT:network-caching=1000
-http://209.126.119.148:20102/live/ed6de3eca68248d3b2bed7de22d8cb00/677d04fb55ec4cde965bbaf0bdf7e4d3/411.m3u8
-
+#EXTVLCOPT:network-caching=5000
+http://209.126.119.148:20102/live/6bab42d310634a5b962ff48c7ec2e89d/d1d31285fba548319985ba4fcf4fea25/403.m3u8
