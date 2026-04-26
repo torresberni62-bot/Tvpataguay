@@ -674,3 +674,10 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:network-caching=1000
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1,Canal Estable
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
+#EXTVLCOPT:http-reconnect=true
+http://rlatinop.com:8880/live/Cam2024/pGLeUD6NGZps/414454.m3u8
