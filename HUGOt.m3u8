@@ -681,3 +681,10 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTVLCOPT:live-caching=6000
 #EXTVLCOPT:http-reconnect=true
 http://rlatinop.com:8880/live/Cam2024/pGLeUD6NGZps/414454.m3u8
+
+#EXTM3U
+
+#EXTINF:-1,Canal 412
+#EXTVLCOPT:http-referrer=http://vortex.tv
+#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+http://209.126.119.148:20102/live/afc2a17bd28a46159c4f9597dc1a8b55/f22cbc9977304a71826229f3c4ff007d/412.m3u8
