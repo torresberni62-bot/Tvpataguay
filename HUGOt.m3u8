@@ -758,3 +758,13 @@ EXTM3U
 #EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
 #EXTVLCOPT:network-caching=5000
 http://209.126.119.148:20102/live/9ac8c851b41546fdb9cf3ad16f1206d5/715e3051103e40929a4c7b37f68ccd60/409.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="PLPro" tvg-name="Canal Secure" group-title="IPTV",Canal Secure
+#EXTVLCOPT:http-user-agent=PLPro/8
+#EXTVLCOPT:http-referrer=http://plpro.org/
+#EXTVLCOPT:http-header=X-Hash=rUjq1Ql79ZiXvkaqeQ2OGu2Mej0PpTH5FIMrkzztKhBWVNJpIaVsN8d3OR63NrXyLHuc7tbVKJxfIB2K9YyF4Eq7BAIDpo8zQTLosSEzgfHjkE_MJzDPTxeELwWjYcFSJCU1xr8VpWJFR8egfKSVDksuXI2WJlRARYOU0pHsx0y0XZ-JtHjNqmVZpcu2FZf29A4-F3zAXhFT896jnvqOM2CoaWNIE35bSoweOR1GhM2tu9ufvghks63miVPGvc9gzx_omJrg8lmWB4_6Rx8LkbtYF5pXizAe6wzFJqsB8t1N0a78KcEEjegJpSSG1mXgJC5BPeq0Xq199uedJL3jtDv9B12q9UCOljkWZ9gDlFSF_rlareNwoCgA1faUgS9b_jHn6JfMHdoZrsvhucMbkbQt5UNIbhghaIaUFrG3MoazysO9Lj8JVlBwqo3MWpn2
+#EXTVLCOPT:http-header=X-Did=75ae68f9e2ce0240
+#EXTVLCOPT:http-header=X-Version=8/4.0.7
+http://plpro.org/stream/secure/ZKj5ZmE8ZGt2YwR2YwR2Al4lZGA8ZGp3AmVlBGplZQLjZUj3AJSyAwuzBJHlL2HjZwDjsQO8ZUkDGN/934.m3u8
