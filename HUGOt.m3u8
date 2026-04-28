@@ -768,3 +768,26 @@ http://209.126.119.148:20102/live/9ac8c851b41546fdb9cf3ad16f1206d5/715e3051103e4
 #EXTVLCOPT:http-header=X-Did=75ae68f9e2ce0240
 #EXTVLCOPT:http-header=X-Version=8/4.0.7
 http://plpro.org/stream/secure/ZKj5ZmE8ZGt2YwR2YwR2Al4lZGA8ZGp3AmVlBGplZQLjZUj3AJSyAwuzBJHlL2HjZwDjsQO8ZUkDGN/934.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Deportes",Canal 167731 (Optimizado)
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:live-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+http://rlatinop.com:8880/live/Luisquelopana290525/2chbS5V2GePJ/167731.m3u8
+
+#EXTINF:-1 group-title="Deportes",Canal 167732 (Optimizado)
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:live-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+http://rlatinop.com:8880/live/Luisquelopana290525/2chbS5V2GePJ/167732.m3u8
+
+#EXTINF:-1 group-title="Deportes",Canal 167734 (Optimizado)
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:live-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+http://rlatinop.com:8880/live/Luisquelopana290525/2chbS5V2GePJ/167734.m3u8
