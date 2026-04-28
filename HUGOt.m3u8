@@ -794,8 +794,11 @@ http://rlatinop.com:8880/live/Luisquelopana290525/2chbS5V2GePJ/167734.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
 http://rlatinop.com:8880/live/Luisquelopana290525/2chbS5V2GePJ/514017.m3u8
 
-#EXTINF:-1,Canal 73656 (Master - si disponible)
-#EXTVLCOPT:httpreferrer=ak-47scan.dyndns.tv:25461
+#EXTM3U
+
+#EXTINF:-1 group-title="Deportes",Canal 73656 (TS Optimizado)
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:live-caching=2500
+#EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTVLCOPT:network-caching=1000
-http://104.238.221.245:25461/live/Manzojes/WfSTGMMpzeEd/73656.ts?token=HkdQWUBZQAsSAF4ABwdRVlFQDQkHAV5cVgRQCAIGDlIDUFwBUlcDA
+http://104.238.221.245:25461/live/Manzojes/WfSTGMMpzeEd/73656.ts?token=HkdQWUBZQAsSAF4ABwdRVlFQDQkHAV5cVgRQCAIGDlIDUFwBUlcDAlVEFBEQRRZWVQhmUVISAlIEAwYOHhJMFQAXZ1FXE1gTAVcMAFoCRh8WEVBVUxICVAACBAsEBg9TUkkaSFpVQAsSXwEBUAJWERhHXEBCVUoLVllsXFdGUAUARwJWRl0OHRIJVmwHVAlSWgEbAhQAGkkVXEBIEAobMgAJXVtWXUJiHicWEU8TBlpAF1hMUxICRwQGCwsQHBsFChBWTEFIQAsSNmERTxMBS0AAV0tfX1ZHDRdHSxAcGw8WOkpdQEUQVFELXUFBC0YDFkkbVVdIZwZYW11dUURQCQsWGgIRAkAdEgtXXQpFC0FrFVBcFAoaVA8NAA4EAxsb
