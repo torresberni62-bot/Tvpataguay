@@ -187,6 +187,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
 
 ########## 🧪 PARAGUAY TV ##########
 
+#EXTINF:-1 group-title="TV",Canal TYC SPORTS
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:live-caching=1500
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/502900.m3u8
+
 EXTINF:-1 tvg-name="SNT PARAGUAY" group-title="TV",SNT PARAGUAY (Estable)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
 #EXTVLCOPT:http-referrer=https://google.com/
