@@ -186,6 +186,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
 #EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png":-1, Canal 1 A24 PARAGUAY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
 
+#EXTM3U
+#EXTINF:-1 group-title="PARAGUAY",Canal LATELE PARAGUAY
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-referrer=http://tv.proyectox.vip:8080
+#EXTVLCOPT:http-user-agent=com.shamel.tv/43
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-reconnect=true
+http://tv.proyectox.vip:8080/live/renhernand1/ZmLaDyJVUn/84567.m3u8
+
 #EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png":-1, Canal 2 ABC PARAGUAY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 
@@ -548,17 +558,6 @@ http://45.170.130.224:8000/play/a04i/index.m3u8
 
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/2TSxtJ7/canal-8-villa.png",VISION TV
 https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion
-
-#EXTM3U
-#EXTINF:-1 group-title="PARAGUAY",Canal LATELE PARAGUAY
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-referrer=http://tv.proyectox.vip:8080
-#EXTVLCOPT:http-user-agent=com.shamel.tv/43
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://tv.proyectox.vip:8080/live/renhernand1/ZmLaDyJVUn/84567.m3u8
-
 
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg",GEN TV
 https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion
