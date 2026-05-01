@@ -42,7 +42,11 @@ https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/
 #######################
 # 😂 ENTRETENIMIENTO
 #######################
-
+#EXTM3U
+#EXTINF:-1,Canal MAGA VISION
+#EXTVLCOPT:http-referrer=http://vortex.tv
+#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/5.1.7
+http://158.69.116.209:20102/live/7c1a1a551136426c84d21e71603f6cb0/d617af3a130c4caf8e5b2bc5a6ed4824/68.m3u8
 #EXTINF:-1 tvg-id="mr-bean-es" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/7ff74f0d-63d9-44f5-99e3-d11bdbf81197.jpeg" group-title="Entretenimiento",Mr. Bean
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
