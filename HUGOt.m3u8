@@ -41,6 +41,64 @@ https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/
 
 ######################## 😂 ENTRETENIMIENTO#######################
 #EXTM3U
+
+#EXTM3U
+
+#EXTINF:-1 group-title="UNIVERSAL+ | HBO",Universal Cinema
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
+
+#EXTINF:-1 group-title="UNIVERSAL+ | HBO",Universal Comedy
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/62.m3u8
+
+#EXTINF:-1 group-title="UNIVERSAL+ | HBO",Universal Crime
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8
+
+#EXTINF:-1 group-title="UNIVERSAL+ | HBO",Universal Premiere
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8
+
+#EXTINF:-1 group-title="UNIVERSAL+ | HBO",Universal Plus
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8
+
+#EXTINF:-1 group-title="UNIVERSAL+ | HBO",HBO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
+
+#EXTINF:-1 group-title="UNIVERSAL+ | HBO",HBO 2
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8
+
+#EXTINF:-1 group-title="UNIVERSAL+ | HBO",HBO Family
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/31.m3u8
+
+#EXTINF:-1 group-title="UNIVERSAL+ | HBO",HBO Mundi
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8
+
+#EXTINF:-1 group-title="UNIVERSAL+ | HBO",HBO Plus
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8
+
+#EXTINF:-1 group-title="UNIVERSAL+ | HBO",HBO Max
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
+
+#EXTINF:-1 group-title="UNIVERSAL+ | HBO",HBO Signature
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8
+
+#EXTINF:-1 group-title="UNIVERSAL+ | HBO",HBO Xtreme
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
+
+
+#EXTINF:-1 group-title="INFANTILES",Plim Plim
+https://edge-live18-sl.cvattv.com.ar/.../Plim_Plim.mpd
+
+#EXTINF:-1 group-title="INFANTILES",Paka Paka
+https://edge-live18-sl.cvattv.com.ar/.../PAKA_PAKA.mpd
+
+#EXTINF:-1 group-title="INFANTILES",Cartoon Network
+https://edge-live18-sl.cvattv.com.ar/.../CartoonNetwork.mpd
+
+#EXTINF:-1 group-title="INFANTILES",Nick Jr
+https://edge-live18-sl.cvattv.com.ar/.../Nick_Jr.mpd
+
+#EXTINF:-1 group-title="INFANTILES",Tooncast
+https://edge-live18-sl.cvattv.com.ar/.../Tooncast.mpd
+
 #EXTINF:-1,Canal HBO HD OPC 1
 #EXTVLCOPT:http-referrer=http://vortex.tv
 #EXTVLCOPT:http-user-agent=OmegaMediaPlayer/5.1.7
