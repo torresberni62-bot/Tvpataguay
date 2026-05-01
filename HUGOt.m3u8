@@ -39,10 +39,9 @@ https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg0
 https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
 
 
-#######################
-# 😂 ENTRETENIMIENTO#######################
+######################## 😂 ENTRETENIMIENTO#######################
 #EXTM3U
-#EXTINF:-1,Canal ACTION MAX
+#EXTINF:-1,Canal ACTIONMAX
 #EXTVLCOPT:http-referrer=http://vortex.tv
 #EXTVLCOPT:http-user-agent=OmegaMediaPlayer/5.1.7
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/98.m3u8
