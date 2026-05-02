@@ -40,10 +40,11 @@ https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/
 
 
 ######################## 😂 ENTRETENIMIENTO#######################
-#EXTM3U
 
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="UNIVERSAL",Disney Channel
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
 #EXTINF:-1 group-title="UNIVERSAL+ | HBO",Universal Cinema
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
 
