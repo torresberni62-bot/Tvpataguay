@@ -614,6 +614,14 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 
 #EXTM3U
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Cana PARAVISION" tvg-name="Canal PARAVISION" tvg-logo="https://via.placeholder.com/300x150.png?text=Canal+2" group-title="IPTV",Canal PARAVISION
+#EXTVLCOPT:http-user-agent=com.shamel.tv/43 (Linux; Android 14)
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4000
+http://tv.proyectox.vip:8080/live/renhernand1/ZmLaDyJVUn/84572.m3u8
+
 #EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT SD" tvg-logo="https://i.ibb.co/bjfm9sfR/image.png" group-title="Paraguay",SNT (Auto LOW)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:live-caching=1500
@@ -634,6 +642,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1443.m3u8
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png",PARAVISION
+http://tv.proyectox.vip:8080/live/renhernand1/ZmLaDyJVUn/84572.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/La-Tele-Canal-11-en-vivo-Online.png",LA TELE
