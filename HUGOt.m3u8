@@ -1,4 +1,4 @@
-bb﻿#EXTM3U
+﻿#EXTM3U
 
 # ===== SERVIDOR 104.194.8.54 =====
 
@@ -724,6 +724,14 @@ http://45.170.130.224:8000/play/a04i/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/428664.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN
+http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN
+http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV",Canal ESPN 7 PERU 
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:live-caching=1500
