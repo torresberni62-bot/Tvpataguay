@@ -620,7 +620,6 @@ https://live2.eu-north-1a.cf.dmcdn.net/sec2(3VItUcgpTLQ9d7brzEz_4mvJG7bpwUVxL6Zq
 #EXTINF:-1 tvg-name="ABC Backup" tvg-logo="https://i.ibb.co/d4s6q5mD/image.png" group-title="Canales",ABC Backup
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 
-
 #EXTINF:-1 tvg-id="Cana PARAVISION" tvg-name="Canal PARAVISION" tvg-logo="https://via.placeholder.com/300x150.png?text=Canal+2" group-title="IPTV",Canal PARAVISION
 #EXTVLCOPT:http-user-agent=com.shamel.tv/43 (Linux; Android 14)
 #EXTVLCOPT:http-reconnect=true
