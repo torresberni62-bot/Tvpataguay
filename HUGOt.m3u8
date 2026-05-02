@@ -285,24 +285,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
 
 ########## 🧪 PARAGUAY TV ##########
 
-#EXTINF:-1 group-title="TV",Canal C9N OPC1
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:live-caching=1500
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/502900.m3u8
-
-EXTINF:-1 tvg-name="SNT PARAGUAY" group-title="TV",SNT PARAGUAY (Estable)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:live-caching=3000
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
-https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/2TSxtJ7/canal-8-villa.png",VISION TV
-https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion
 
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg",GEN TV
 https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion
@@ -634,7 +616,6 @@ http://tv.proyectox.vip:8080/live/renhernand1/ZmLaDyJVUn/84572.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=lowest
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
-One Futbol:
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",TELEFUTURO
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion
 
@@ -664,6 +645,25 @@ https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8
 
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/s9Qr9gmw/image.png",NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 group-title="TV",Canal C9N OPC1
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:live-caching=1500
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/502900.m3u8
+
+EXTINF:-1 tvg-name="SNT PARAGUAY" group-title="TV",SNT PARAGUAY (Estable)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
+#EXTVLCOPT:http-referrer=https://google.com/
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:clock-synchro=0
+https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/2TSxtJ7/canal-8-villa.png",VISION TV
+https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion
 
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/1fL1SsSm/image.png",HEI
 https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
