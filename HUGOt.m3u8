@@ -662,7 +662,6 @@ https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="UNICANAL.py" tvg-name="UNICANAL" tvg-logo="https://i.postimg.cc/DzRp7xy9/unicanal.png" group-title="Paraguay",UNICANAL
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=3000
-
 http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/502907.m3u8
 
 https://tigocloud.desdeparaguay.net/unicanal/unicanal_alta/index.m3u8
