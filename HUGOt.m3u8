@@ -1,4 +1,4 @@
-#EXTM3U
+u#EXTM3U
 
 # ===== SERVIDOR 104.194.8.54 =====
 
@@ -601,8 +601,7 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #EXTM3U
 
 #EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.ibb.co/d4s6q5mD/image.png" group-title="PARAGUAY",ABC
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(3VItUcgpTLQ9d7brzEz_4mvJG7bpwUVxL6ZqSu8p-ioQblDgb3cvDCaTAducFuTkFTCCto0YPK8kYTGPO7A7iHs5D6ZwXd27GckVDIlueF2xMMpY89U-p-GFSEVex9Jx)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a
-
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(MrVJIk9YOHBx4EjUMDFk_y1VR08FbTJMFgqySLZZSw1_dSroGNZw805Ht8nFavNIzZF1HdTtG9yi7pYWOiEw166_bXwMuVcUZeTaT1zMc8fNPmIFccoVyqKdgqmdw-x_)/cloud/3/x9skr3m/d/live-480.m3u8#cell=lcf2-eu-north-1a
 #EXTINF:-1 tvg-name="ABC Backup" tvg-logo="https://i.ibb.co/d4s6q5mD/image.png" group-title="PARAGUAY",ABC Backup
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 
