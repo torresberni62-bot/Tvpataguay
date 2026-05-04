@@ -719,7 +719,9 @@ http://45.170.130.224:8000/play/a04i/index.m3u8
 
 #EXTM3U
 
-#EXTM3U
+#EXTINF:-1 tvg-name="Canal 488180" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="Streaming",Canal 488180
+#EXTVLCOPT:http-user-agent=XCIPTV-v7.0
+http://cinemagold.club/live/BPXmG5Fr9mUY/GZ8XHkaWqbN9/488180.m3u8
 
 #EXTINF:-1 tvg-name="Canal 488179" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="Streaming",Canal 488179
 #EXTVLCOPT:http-user-agent=XCIPTV-v7.0
