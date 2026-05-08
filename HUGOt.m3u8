@@ -660,6 +660,12 @@ http://45.170.130.224:8000/play/a04i/index.m3u8
 ############### 🏆 ESPN 🏆 ###############
 
 #EXTM3U
+#EXTINF:-1 tvg-name="Canal 488180" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="ESPN",Canal ESPN 1
+#EXTVLCOPT:http-user-agent=XCIPTV-v7.0
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:clock-synchro=0
+http://estrellaos.voohocep.top:8080/live/VIP01584172469343395/f44953b461b3/4757.m3u8
 
 #EXTINF:-1 tvg-name="Canal 488180" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="ESPN",Canal ESPN 1
 #EXTVLCOPT:http-user-agent=XCIPTV-v7.0
