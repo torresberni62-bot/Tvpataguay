@@ -2,7 +2,11 @@
 
 # 🎬 PELÍCULAS
 #######################
-
+#EXTINF:-1 tvg-name="CANAL PELÍCULAS" group-title="PELÍCULAS",CANAL DEPORTES
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
+http://rlatinop.com:8880/live/Cam2024/pGLeUD6NGZps/414454.m3u8
 #EXTINF:-1 tvg-id="feel-good-tv" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/c7ff802e-6aa3-4231-8aaf-c8c64b511013.jpeg" group-title="PELÍCULAS",Feel Good TV
 https://daiconnect.com/live/hls/tvup/rk-feelgood/.m3u8
 
