@@ -413,314 +413,278 @@ http://cinemagold.club/live/BPXmG5Fr9mUY/GZ8XHkaWqbN9/444067.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Canal 444055" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="DEPORTES",Canal 444055
-#EXTVLCOPT:http-user-agent=XCIPTV-v7.0
-http://cinemagold.club/live/BPXmG5Fr9mUY/GZ8XHkaWqbN9/444055.m3u8
-
-#EXTM3U
-#EXTINF:-1,ESPN DEPORTES
-http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
-
-#EXTINF:-1,FOX DEPORTES
-https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
-
-#EXTINF:-1,COMBATE x DAZN
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-
-#EXTINF:-1,PLUTO.TV FUTBOL PARA FANS
-https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
-
-#EXTINF:-1,PLUTO.TV SPORTS
-https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
-
-#EXTINF:-1,FOX SPORTS SUR
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
-
-#EXTINF:-1,FOX SPORTS 2 SUR
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playlist.m3u8
-
-#EXTINF:-1,FOX SPORTS 3 SUR
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
-
-#EXTINF:-1,FOX TUBI
-https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
-
-#EXTINF:-1,FOX XTRA TUBI
-http://74.208.30.121/fox_mexico/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,TUDN
-https://streaming.alwaysdata.net/tudn.php
-
-#EXTINF:-1,ESPN SUR
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8
-
-#EXTINF:-1,ESPN 2 SUR
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-97.playlist.m3u8
-
-#EXTINF:-1,ESPN 3 SUR
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-96.playlist.m3u8
-
-#EXTINF:-1,ESPN 4 SUR
-http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-95.playlist.m3u8
-
-#EXTINF:-1,ESPN 5 SUR
-http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.playlist.m3u8
-
-#EXTINF:-1,ESPN POR YOUTUBE
-https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1,ESPN 2 POR YOUTUBE
-http://cirrus.trapemn.tv:1935/cirrus-backup/ESPN2.stream/playlist.m3u8
-
-#EXTINF:-1,ESPN 3 POR YOUTUBE
-https://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1,ESPN 4 POR YOUTUBE
-https://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1,ESPN PREMIUM
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8
-
-#EXTINF:-1,TNT SPORTS POR TWITCH
-https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
-
-#EXTINF:-1,DIRECTV SPORTS
-https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
-
-#EXTINF:-1,CBS SPORTS GOLAZO! 
-https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
-
-#EXTINF:-1,CBS SPORTS HQ
-https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
-
-#EXTINF:-1,BEIN SPORTS XTRA
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
-
-#EXTINF:-1,N.SPORTS BR
-https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
-
-#EXTINF:-1,CAZE.TV BR
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-8,TENNIS CHANNEL
-https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8
-
-#EXTINF:-1,FIFA+
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-
-#EXTINF:-1,TIGO SPORTS PY
-https://tigocloud.desdeparagauy.com.py-east-1.amazonaws.com@live.enhdtv.com:8081/8160/index.m3u8
-
-#EXTINF:-1,CLARO SPORTS
-https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
-
-#EXTINF:-1,CLARO SPORTS PLUTO TV
-https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
-
-#EXTINF:-1,TYC SPORTS
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90.playlist.m3u8
-
-#EXTINF:-1,LALIGA SMARTBANK
-http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
-
-#EXTINF:-1,REALMADRID.TV
-https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
-
-#EXTM3U
-#EXTINF:-1 group-title="TV",Canal FOX SPORTS 3 PERU 
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:live-caching=1500
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="DEPORTES",ESPN
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/428664.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN
-http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV",Canal ESPN 7 PERU 
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:live-caching=1500
+#EXTINF:-1 tvg-name="ESPN 7 PERU" group-title="DEPORTES",ESPN 7 PERU
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/428660.m3u8
 
-#EXTINF:-1 group-title="TV",Canal ESPN 6 PERU 
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:live-caching=1500
+#EXTINF:-1 tvg-name="ESPN 6 PERU" group-title="DEPORTES",ESPN 6 PERU
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/428659.m3u8
 
-#EXTINF:-1 group-title="TV",Canal ESPN 5 PERU 
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:live-caching=1500
+#EXTINF:-1 tvg-name="ESPN 5 PERU" group-title="DEPORTES",ESPN 5 PERU
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/428658.m3u8
 
-#EXTINF:-1 group-title="TV",Canal ESPN 2 PERU 
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:live-caching=1500
+#EXTINF:-1 tvg-name="ESPN 2 PERU" group-title="DEPORTES",ESPN 2 PERU
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/428655.m3u8
 
-#EXTINF:-1 group-title="TV",Canal ESPN PERU 
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:live-caching=1500
+#EXTINF:-1 tvg-name="ESPN PERU" group-title="DEPORTES",ESPN PERU
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/428654.m3u8
 
-#EXTM3U
-
-#EXTINF:-1 tvg-name="Canal TYC SPORTS USA " tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="tv",Canal TYC SPORTS USA
+#EXTINF:-1 tvg-name="TYC SPORTS USA" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="DEPORTES",TYC SPORTS USA
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 http://45.170.130.224:8000/play/a020/15657866.m3u8
 
-#EXTINF:-1 tvg-name="Fox Sports 2" group-title="tv",Fox Sports 2
+#EXTINF:-1 tvg-name="Fox Sports 2" group-title="DEPORTES",Fox Sports 2
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:live-caching=8000
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
 
-#EXTINF:-1 tvg-name="Fox Sports 3" group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-name="Fox Sports 3" group-title="DEPORTES",Fox Sports 3
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:live-caching=8000
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 
-#EXTINF:-1 group-title="TV",Canal ESPN 2 AR
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:live-caching=1500
+#EXTINF:-1 tvg-name="ESPN 2 AR" group-title="DEPORTES",ESPN 2 AR
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
 http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/327915.m3u8
 
-#EXTINF:-1 group-title="TV",Canal TYC SPORTS
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:live-caching=1500
+#EXTINF:-1 tvg-name="TYC SPORTS" group-title="DEPORTES",TYC SPORTS
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/327918.m3u8
 
-#EXTINF:-1 group-title="TV",ESPN (Optimizado)
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:live-caching=1500
+#EXTINF:-1 tvg-name="ESPN OPTIMIZADO" group-title="DEPORTES",ESPN OPTIMIZADO
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:live-caching=8000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
 
-#EXTINF:-1 group-title="Deportes",Canal ESPN (Optimizado)
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:live-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
-#EXTM3U
-
-#EXTINF:-1 group-title="TV" tvg-name="beIN Sports Xtra",beIN Sports Xtra (720p)
+#EXTINF:-1 tvg-name="beIN Sports Xtra" group-title="DEPORTES",beIN Sports Xtra (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:live-caching=4000
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTM3U
 
-#EXTINF:-1 tvg-id="beINXumo.es" tvg-name="beIN Sports Xtra" group-title="Deportes" tvg-language="es",beIN Sports Xtra (720p)
+#EXTINF:-1 tvg-id="beINXumo.es" tvg-name="beIN Sports Xtra" group-title="DEPORTES" tvg-language="es",beIN Sports Xtra ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:live-caching=4000
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-
-EXTINF:-1,Canal ESPN MX
-#EXTVLCOPT:http-referrer=http://vortex.tv
-#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
-http://209.126.119.148:20102/live/afc2a17bd28a46159c4f9597dc1a8b55/f22cbc9977304a71826229f3c4ff007d/412.m3u8
-
 #EXTM3U
-#EXTINF:-1,Canal ESPN MX
-#EXTVLCOPT:http-referrer=http://vortex.tv
-#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
-#EXTVLCOPT:network-caching=1000
-http://209.126.119.148:20102/live/8f6fe283f9344b8aaf117d80e6ab8f60/65a98008c8914be6985a3a412c6cede0/413.m3u8
 
-#EXTM3U
-#EXTINF:-1,Canal ESPN 3
-#EXTVLCOPT:http-referrer=http://vortex.tv
-#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
-#EXTVLCOPT:network-caching=5000
-http://209.126.119.148:20102/live/b09688771bc342a1b559e31ab06c27d2/047b9ba7f7d54076a2ccc1ef9b00294f/414.m3u8
-
-EXTM3U
-#EXTINF:-1,Canal ESPN 
-#EXTVLCOPT:http-referrer=http://vortex.tv
-#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
-#EXTVLCOPT:network-caching=5000
-http://209.126.119.148:20102/live/6bab42d310634a5b962ff48c7ec2e89d/d1d31285fba548319985ba4fcf4fea25/403.m3u8
-
-EXTM3U
-#EXTINF:-1,Canal  ESPN 2 
-#EXTVLCOPT:http-referrer=http://vortex.tv
-#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
-#EXTVLCOPT:network-caching=5000
-http://209.126.119.148:20102/live/513eb5e851954c5d80a3597c8547f3b3/3f650558b3284f058a8510bcca32597c/404.m3u8
+#EXTINF:-1 tvg-name="Canal 444055" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="DEPORTES",Canal 444055
+#EXTVLCOPT:http-user-agent=XCIPTV-v7.0
+http://cinemagold.club/live/BPXmG5Fr9mUY/GZ8XHkaWqbN9/444055.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="canal ESPN 2" tvg-name="Canal ESPN 2 " tvg-logo="https://via.placeholder.com/300x150.png" group-title="IPTV",Canal ESPN 2
-#EXTVLCOPT:http-referrer=http://vortex.tv
-#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
-http://209.126.119.148:20102/live/513eb5e851954c5d80a3597c8547f3b3/3f650558b3284f058a8510bcca32597c/404.m3u8
+#EXTINF:-1 tvg-name="ESPN LATAM" group-title="DEPORTES",ESPN LATAM
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.playlist.m3u8
 
-EXTM3U
-#EXTINF:-1,Canal ESPN 3 
-#EXTVLCOPT:http-referrer=http://vortex.tv
-#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+#EXTINF:-1 tvg-name="ESPN POR YOUTUBE" group-title="DEPORTES",ESPN POR YOUTUBE
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
+https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-name="ESPN 2 POR YOUTUBE" group-title="DEPORTES",ESPN 2 POR YOUTUBE
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
+http://cirrus.trapemn.tv:1935/cirrus-backup/ESPN2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3 POR YOUTUBE" group-title="DEPORTES",ESPN 3 POR YOUTUBE
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
+https://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-name="ESPN 4 POR YOUTUBE" group-title="DEPORTES",ESPN 4 POR YOUTUBE
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
+https://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-name="ESPN PREMIUM" group-title="DEPORTES",ESPN PREMIUM
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:live-caching=8000
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORTS" group-title="DEPORTES",TNT SPORTS
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
+https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-name="DIRECTV SPORTS" group-title="DEPORTES",DIRECTV SPORTS
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-name="CBS SPORTS GOLAZO" group-title="DEPORTES",CBS SPORTS GOLAZO
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:live-caching=4000
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+
+#EXTINF:-1 tvg-name="CBS SPORTS HQ" group-title="DEPORTES",CBS SPORTS HQ
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:live-caching=4000
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+
+#EXTINF:-1 tvg-name="LALIGA SMARTBANK" group-title="DEPORTES",LALIGA SMARTBANK
+#EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=5000
-http://209.126.119.148:20102/live/fc78f0b5971f4dd3a85c079fc20d1e2c/ff1cfda4e5394f86812683dd6051afad/405.m3u8
+#EXTVLCOPT:live-caching=5000
+http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
 
-EXTM3U
-#EXTINF:-1,Canal FOX SPORTS 3
-#EXTVLCOPT:http-referrer=http://vortex.tv
-#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+#EXTINF:-1 tvg-name="REALMADRID TV" group-title="DEPORTES",REALMADRID TV
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:live-caching=4000
+https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
+
+#EXTINF:-1 tvg-name="FOX SPORTS 3 PERU" group-title="DEPORTES",FOX SPORTS 3 PERU
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/428664.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="DEPORTES",ESPN
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
+http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="ESPN LATAM" group-title="DEPORTES",ESPN LATAM
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.playlist.m3u8
+
+#EXTINF:-1 tvg-name="ESPN POR YOUTUBE" group-title="DEPORTES",ESPN POR YOUTUBE
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
+https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-name="ESPN 2 POR YOUTUBE" group-title="DEPORTES",ESPN 2 POR YOUTUBE
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
+http://cirrus.trapemn.tv:1935/cirrus-backup/ESPN2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3 POR YOUTUBE" group-title="DEPORTES",ESPN 3 POR YOUTUBE
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
+https://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-name="ESPN 4 POR YOUTUBE" group-title="DEPORTES",ESPN 4 POR YOUTUBE
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
+https://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-name="ESPN PREMIUM" group-title="DEPORTES",ESPN PREMIUM
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:live-caching=8000
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORTS" group-title="DEPORTES",TNT SPORTS
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
+https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-name="DIRECTV SPORTS" group-title="DEPORTES",DIRECTV SPORTS
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=6000
+#EXTVLCOPT:live-caching=6000
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-name="CBS SPORTS GOLAZO" group-title="DEPORTES",CBS SPORTS GOLAZO
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:live-caching=4000
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+
+#EXTINF:-1 tvg-name="CBS SPORTS HQ" group-title="DEPORTES",CBS SPORTS HQ
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:live-caching=4000
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+
+#EXTINF:-1 tvg-name="LALIGA SMARTBANK" group-title="DEPORTES",LALIGA SMARTBANK
+#EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=5000
-http://209.126.119.148:20102/live/3a2fac51a2434812a44445a1bba81dbd/b52b475339d64b4497dd084f9e2c9b1e/415.m3u8
+#EXTVLCOPT:live-caching=5000
+http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
 
-EXTM3U
-#EXTINF:-1,Canal FOX SPORTS 2
-#EXTVLCOPT:http-referrer=http://vortex.tv
-#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
-#EXTVLCOPT:network-caching=5000
-http://209.126.119.148:20102/live/c3ce8354f6894f56ab66d94fc3ac484a/a1488e717571448aa76bfc9e5746c8ef/416.m3u8
+#EXTINF:-1 tvg-name="REALMADRID TV" group-title="DEPORTES",REALMADRID TV
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:live-caching=4000
+https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 
-EXTM3U
-#EXTINF:-1,Canal TUDN
-#EXTVLCOPT:http-referrer=http://vortex.tv
-#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
-#EXTVLCOPT:network-caching=5000
-http://209.126.119.148:20102/live/069436786c1545b6bd931c4d0712754d/287d1d9c3d834669b60ee46b8acd836d/420.m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 3 PERU" group-title="DEPORTES",FOX SPORTS 3 PERU
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/428664.m3u8
 
-EXTM3U
-#EXTINF:-1,Canal TYCSPORTS 1
-#EXTVLCOPT:http-referrer=http://vortex.tv
-#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
-#EXTVLCOPT:network-caching=1000
-http://209.126.119.148:20102/live/9ac8c851b41546fdb9cf3ad16f1206d5/715e3051103e40929a4c7b37f68ccd60/409.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="DEPORTES",ESPN
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
+http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
 
-#EXTM3U
-
-#EXTINF:-1 tvg-id="PLPro" tvg-name="Canal Secure" group-title="IPTV",Canal Secure
-#EXTVLCOPT:http-user-agent=PLPro/8
-#EXTVLCOPT:http-referrer=http://plpro.org/
-#EXTVLCOPT:http-header=X-Hash=rUjq1Ql79ZiXvkaqeQ2OGu2Mej0PpTH5FIMrkzztKhBWVNJpIaVsN8d3OR63NrXyLHuc7tbVKJxfIB2K9YyF4Eq7BAIDpo8zQTLosSEzgfHjkE_MJzDPTxeELwWjYcFSJCU1xr8VpWJFR8egfKSVDksuXI2WJlRARYOU0pHsx0y0XZ-JtHjNqmVZpcu2FZf29A4-F3zAXhFT896jnvqOM2CoaWNIE35bSoweOR1GhM2tu9ufvghks63miVPGvc9gzx_omJrg8lmWB4_6Rx8LkbtYF5pXizAe6wzFJqsB8t1N0a78KcEEjegJpSSG1mXgJC5BPeq0Xq199uedJL3jtDv9B12q9UCOljkWZ9gDlFSF_rlareNwoCgA1faUgS9b_jHn6JfMHdoZrsvhucMbkbQt5UNIbhghaIaUFrG3MoazysO9Lj8JVlBwqo3MWpn2
-#EXTVLCOPT:http-header=X-Did=75ae68f9e2ce0240
-#EXTVLCOPT:http-header=X-Version=8/4.0.7
-http://plpro.org/stream/secure/ZKj5ZmE8ZGt2YwR2YwR2Al4lZGA8ZGp3AmVlBGplZQLjZUj3AJSyAwuzBJHlL2HjZwDjsQO8ZUkDGN/934.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 group-title="Deportes",Canal DSPORTS (Optimizado)
 #EXTVLCOPT:network-caching=2000
@@ -749,8 +713,6 @@ http://rlatinop.com:8880/live/Luisquelopana290525/2chbS5V2GePJ/167734.m3u8
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android TV)
 http://rlatinop.com:8880/live/Luisquelopana290525/2chbS5V2GePJ/514017.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 group-title="Deportes",Canal 73656 (TS Optimizado)
 #EXTVLCOPT:network-caching=2500
@@ -785,6 +747,167 @@ http://rlatinop.com:8880/live/Luisquelopana290525/2chbS5V2GePJ/167735.m3u8
 http://tv.proyectox.vip:8080/live/renhernand1/ZmLaDyJVUn/9517.m3u8
 
 #EXTM3U
+
+#EXTINF:-1 tvg-name="ESPN DEPORTES" group-title="DEPORTES",ESPN DEPORTES
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+
+#EXTINF:-1 tvg-name="FOX DEPORTES" group-title="DEPORTES",FOX DEPORTES
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:live-caching=5000
+https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
+
+#EXTINF:-1 tvg-name="COMBATE x DAZN" group-title="DEPORTES",COMBATE x DAZN
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:live-caching=5000
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-name="PLUTO TV FUTBOL" group-title="DEPORTES",PLUTO TV FUTBOL
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:live-caching=4000
+https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
+
+#EXTINF:-1 tvg-name="PLUTO TV SPORTS" group-title="DEPORTES",PLUTO TV SPORTS
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:live-caching=4000
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+
+#EXTINF:-1 tvg-name="FOX SPORTS SUR" group-title="DEPORTES",FOX SPORTS SUR
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
+
+#EXTINF:-1 tvg-name="FOX SPORTS 2 SUR" group-title="DEPORTES",FOX SPORTS 2 SUR
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playlist.m3u8
+
+#EXTINF:-1 tvg-name="FOX SPORTS 3 SUR" group-title="DEPORTES",FOX SPORTS 3 SUR
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
+
+#EXTINF:-1 tvg-name="FOX TUBI" group-title="DEPORTES",FOX TUBI
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:live-caching=4000
+https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FOX XTRA TUBI" group-title="DEPORTES",FOX XTRA TUBI
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:live-caching=4000
+http://74.208.30.121/fox_mexico/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="TUDN" group-title="DEPORTES",TUDN
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:live-caching=5000
+https://streaming.alwaysdata.net/tudn.php
+
+#EXTINF:-1 tvg-name="ESPN SUR" group-title="DEPORTES",ESPN SUR
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2 SUR" group-title="DEPORTES",ESPN 2 SUR
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-97.playlist.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3 SUR" group-title="DEPORTES",ESPN 3 SUR
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-96.playlist.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 4 SUR" group-title="DEPORTES",ESPN 4 SUR
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=7000
+#EXTVLCOPT:live-caching=7000
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-95.playlist.m3u8
+
+#EXTINF:-1 tvg-name="ESPN MX" group-title="DEPORTES",ESPN MX
+#EXTVLCOPT:http-referrer=http://vortex.tv
+#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=5000
+http://209.126.119.148:20102/live/afc2a17bd28a46159c4f9597dc1a8b55/f22cbc9977304a71826229f3c4ff007d/412.m3u8
+
+#EXTINF:-1 tvg-name="ESPN MX 2" group-title="DEPORTES",ESPN MX 2
+#EXTVLCOPT:http-referrer=http://vortex.tv
+#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=5000
+http://209.126.119.148:20102/live/8f6fe283f9344b8aaf117d80e6ab8f60/65a98008c8914be6985a3a412c6cede0/413.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3" group-title="DEPORTES",ESPN 3
+#EXTVLCOPT:http-referrer=http://vortex.tv
+#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=5000
+http://209.126.119.148:20102/live/b09688771bc342a1b559e31ab06c27d2/047b9ba7f7d54076a2ccc1ef9b00294f/414.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" group-title="DEPORTES",ESPN
+#EXTVLCOPT:http-referrer=http://vortex.tv
+#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=5000
+http://209.126.119.148:20102/live/6bab42d310634a5b962ff48c7ec2e89d/d1d31285fba548319985ba4fcf4fea25/403.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2" group-title="DEPORTES",ESPN 2
+#EXTVLCOPT:http-referrer=http://vortex.tv
+#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=5000
+http://209.126.119.148:20102/live/513eb5e851954c5d80a3597c8547f3b3/3f650558b3284f058a8510bcca32597c/404.m3u8
+
+#EXTINF:-1 tvg-name="FOX SPORTS 3" group-title="DEPORTES",FOX SPORTS 3
+#EXTVLCOPT:http-referrer=http://vortex.tv
+#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=5000
+http://209.126.119.148:20102/live/3a2fac51a2434812a44445a1bba81dbd/b52b475339d64b4497dd084f9e2c9b1e/415.m3u8
+
+#EXTINF:-1 tvg-name="FOX SPORTS 2" group-title="DEPORTES",FOX SPORTS 2
+#EXTVLCOPT:http-referrer=http://vortex.tv
+#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=5000
+http://209.126.119.148:20102/live/c3ce8354f6894f56ab66d94fc3ac484a/a1488e717571448aa76bfc9e5746c8ef/416.m3u8
+
+#EXTINF:-1 tvg-name="TUDN MX" group-title="DEPORTES",TUDN MX
+#EXTVLCOPT:http-referrer=http://vortex.tv
+#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=5000
+http://209.126.119.148:20102/live/069436786c1545b6bd931c4d0712754d/287d1d9c3d834669b60ee46b8acd836d/420.m3u8
+
+#EXTINF:-1 tvg-name="TYCSPORTS 1" group-title="DEPORTES",TYCSPORTS 1
+#EXTVLCOPT:http-referrer=http://vortex.tv
+#EXTVLCOPT:http-user-agent=OmegaMediaPlayer/0.3.6
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=4000
+http://209.126.119.148:20102/live/9ac8c851b41546fdb9cf3ad16f1206d5/715e3051103e40929a4c7b37f68ccd60/409.m3u8
+
+#EXTINF:-1 tvg-name="CANAL SECURE" group-title="DEPORTES",CANAL SECURE
+#EXTVLCOPT:http-user-agent=PLPro/8
+#EXTVLCOPT:http-referrer=http://plpro.org/
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=5000
+http://plpro.org/stream/secure/ZKj5ZmE8ZGt2YwR2YwR2Al4lZGA8ZGp3AmVlBGplZQLjZUj3AJSyAwuzBJHlL2HjZwDjsQO8ZUkDGN/934.m3u8
+
 #EXTINF:-1 group-title="DEPORTES",Canal ESPN ARGENTINA opc 1
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -794,7 +917,6 @@ http://tv.proyectox.vip:8080/live/renhernand1/ZmLaDyJVUn/9517.m3u8
 #EXTVLCOPT:http-reconnect=true
 http://tv.proyectox.vip:8080/live/renhernand1/ZmLaDyJVUn/9522.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="DEPORTES",Canal ESPN ARGENTINA 
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
