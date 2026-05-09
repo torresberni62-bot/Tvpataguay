@@ -345,16 +345,6 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd?dvr_window_length=30
 
-
-############### ⚽ ESPN ⚽ ###############
-
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png",ESPN 1 (DRM)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34
-https://edge-vod04-sl.cvattv.com.ar/.../ESPN2HD.mpd
-
-#EXTM3U
-
 ############### 🇵🇾 TIGO SPORTS 🇵🇾 ###############
 
 #EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png",EVENTO 1 HD (DRM)
@@ -375,55 +365,55 @@ https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&
 #EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png",TIGO EN VIVO
 http://45.170.130.224:8000/play/a04i/index.m3u8
 
-############### 🏆 ESPN 🏆 ###############
+############### 🏆 DEPORTES 🏆 ###############
 
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal 488180" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="ESPN",Canal ESPN 1
+#EXTINF:-1 tvg-name="Canal 488180" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="DEPORTES",Canal ESPN 1
 #EXTVLCOPT:http-user-agent=XCIPTV-v7.0
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:clock-jitter=0
 #EXTVLCOPT:clock-synchro=0
 http://estrellaos.voohocep.top:8080/live/VIP01584172469343395/f44953b461b3/4757.m3u8
 
-#EXTINF:-1 tvg-name="Canal 488180" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="ESPN",Canal ESPN 1
+#EXTINF:-1 tvg-name="Canal 488180" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="DEPORTES",Canal ESPN 1
 #EXTVLCOPT:http-user-agent=XCIPTV-v7.0
 http://estrellaos.voohocep.top:8080/live/VIP01584172469343395/f44953b461b3/4757.m3u8
 
-#EXTINF:-1 tvg-name="Canal 488179" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="ESPN",Canal ESPN 4
+#EXTINF:-1 tvg-name="Canal 488179" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="DEPORTES",Canal ESPN 4
 #EXTVLCOPT:http-user-agent=XCIPTV-v7.0
 http://estrellaos.voohocep.top:8080/live/VIP01584172469343395/f44953b461b3/4760.m3u8
 
-#EXTINF:-1 tvg-name="Canal 488178" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="Streaming",Canal 488178
+#EXTINF:-1 tvg-name="Canal 488178" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="DEPORTES",Canal 488178
 #EXTVLCOPT:http-user-agent=XCIPTV-v7.0
 http://cinemagold.club/live/BPXmG5Fr9mUY/GZ8XHkaWqbN9/488178.m3u8
-
-#EXTINF:-1 tvg-name="Canal 488176" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="Streaming",Canal 488176
+i
+#EXTINF:-1 tvg-name="Canal 488176" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="DEPORTES",Canal 488176
 #EXTVLCOPT:http-user-agent=XCIPTV-v7.0
 http://cinemagold.club/live/BPXmG5Fr9mUY/GZ8XHkaWqbN9/488176.m3u8
 
-#EXTINF:-1 tvg-name="Canal 444070" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="Streaming",Canal 444070
+#EXTINF:-1 tvg-name="Canal 444070" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="DEPORTES",Canal 444070
 #EXTVLCOPT:http-user-agent=XCIPTV-v7.0
 http://cinemagold.club/live/BPXmG5Fr9mUY/GZ8XHkaWqbN9/444070.m3u8
 
-#EXTINF:-1 tvg-name="Canal 444061" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="Streaming",Canal 444061
+#EXTINF:-1 tvg-name="Canal 444061" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="DEPORTES",Canal 444061
 #EXTVLCOPT:http-user-agent=XCIPTV-v7.0
 http://cinemagold.club/live/BPXmG5Fr9mUY/GZ8XHkaWqbN9/444061.m3u8
 
-#EXTINF:-1 tvg-name="Canal 444064" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="Streaming",Canal 444064
+#EXTINF:-1 tvg-name="Canal 444064" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="DEPORTES",Canal 444064
 #EXTVLCOPT:http-user-agent=XCIPTV-v7.0
 http://cinemagold.club/live/BPXmG5Fr9mUY/GZ8XHkaWqbN9/444064.m3u8
 
-#EXTINF:-1 tvg-name="Canal 444058" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="Streaming",Canal 444058
+#EXTINF:-1 tvg-name="Canal 444058" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="DEPORTES",Canal 444058
 #EXTVLCOPT:http-user-agent=XCIPTV-v7.0
 http://cinemagold.club/live/BPXmG5Fr9mUY/GZ8XHkaWqbN9/444058.m3u8
 
-#EXTINF:-1 tvg-name="Canal 444067" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="Streaming",Canal 444067
+#EXTINF:-1 tvg-name="Canal 444067" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="DEPORTES",Canal 444067
 #EXTVLCOPT:http-user-agent=XCIPTV-v7.0
 http://cinemagold.club/live/BPXmG5Fr9mUY/GZ8XHkaWqbN9/444067.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Canal 444055" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="Streaming",Canal 444055
+#EXTINF:-1 tvg-name="Canal 444055" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="DEPORTES",Canal 444055
 #EXTVLCOPT:http-user-agent=XCIPTV-v7.0
 http://cinemagold.club/live/BPXmG5Fr9mUY/GZ8XHkaWqbN9/444055.m3u8
 
