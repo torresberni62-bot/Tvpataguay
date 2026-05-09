@@ -145,6 +145,17 @@ https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-id="todo-novelas" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/87e940da-d9b1-4e7b-bf1b-499f3b0afe16.jpeg" group-title="Series",Todo Novelas
 https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-id="runtime-series" group-title="RUNTIME SERIES",Runtime Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
+
+#EXTINF:-1 tvg-id="runtime-ana" group-title="SERIES",Runtime Ana y los 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
+
+#EXTINF:-1 tvg-id="runtime-curro" group-title="SERIES",Runtime Curro Jiménez
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
+
+#EXTINF:-1 tvg-id="runtime-familia" group-title="SERIES",Runtime Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
 
 
 
@@ -208,20 +219,6 @@ https://daiconnect.com/live/hls/tvup/rk-elpais/.m3u8
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
 
 
-########## 📺 RUNTIME SERIES ##########
-#EXTINF:-1 tvg-id="runtime-series" group-title="RUNTIME SERIES",Runtime Series
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
-
-#EXTINF:-1 tvg-id="runtime-ana" group-title="RUNTIME SERIES",Runtime Ana y los 7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
-
-#EXTINF:-1 tvg-id="runtime-curro" group-title="RUNTIME SERIES",Runtime Curro Jiménez
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
-
-#EXTINF:-1 tvg-id="runtime-familia" group-title="RUNTIME SERIES",Runtime Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
-
-
 ########## 🧪 PARAGUAY TV ##########
 
 #EXTM3U
@@ -229,13 +226,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
 #EXTINF:-1 tvg-id="SNT" tvg-name="SNT" tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="PARAGUAY TV", SNT
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg",GEN TV
+#EXTINF:-1 group-title="PARAGUAY TV" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg",GEN TV
 https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/latam.xml"
 
-#EXTM3U
-#EXTINF:-1 group-title="PARAGUAY",Canal LATELE PARAGUAY
+#EXTINF:-1 group-title="PARAGUAY TV",Canal LATELE PARAGUAY
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-referrer=http://tv.proyectox.vip:8080
