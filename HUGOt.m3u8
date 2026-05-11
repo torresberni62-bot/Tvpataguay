@@ -29,7 +29,7 @@ http://186.0.248.95:20202/Live/30c9dbf14099a1865c4c4627925816b1/latinatv.playlis
 #EXTINF:-1 tvg-id="Canal9.ar@Default" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title=" 🧪 PARAGUAY TV ", CANAL 9
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-16.playlist.m3u8
 
-#EXTINF:-1 tvg-id="Latele.py@SD" tvg-logo="https://i.imgur.com/BD16znv.png" group-title="❎PARAGUAY TV❎", LATELE SD
+#EXTINF:-1 tvg-id="Latele.py@SD" tvg-logo="https://i.imgur.com/BD16znv.png" group-title=" 🧪 PARAGUAY TV ", LATELE SD
 https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="Latele.py@HD" tvg-logo="https://i.imgur.com/BD16znv.png" group-title=" 🧪 PARAGUAY TV ", LATELE HD
