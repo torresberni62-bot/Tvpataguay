@@ -357,3 +357,16 @@ http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-92.playl
 ✔️ FOX Sports Premium
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsportspremium.png" group-title="⚽ Deportes",✔️ FOX Sports Premium
 
+✔️ TyC Sports 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png" group-title="⚽ Deportes",✔️ TyC Sports 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_C/TyC_Internacional.mpd
+
+✔️ TyC Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png" group-title="⚽ Deportes",✔️ TyC Sports
+http://38.44.109.41:8003/play/a02l/index.m3u8
+
+✔️ TyC Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png" group-title="⚽ Deportes",✔️ TyC Sports
+http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-90.playlist.m3u8
