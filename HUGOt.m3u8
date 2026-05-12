@@ -56,7 +56,7 @@ https://copacoradios.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist.
 #EXTINF:-1 tvg-id="800TV.py@Default" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/800tv.png" group-title=" 🧪 PARAGUAY TV ", 800TV
 https://copacogen.desdeparaguay.net/800tv/800tv/index.m3u8?admin=nacion
 
-#EXTINF:-1 tvg-id="AspenTV.py@Default" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/aspentv.png" group-title="❎PARAGUAY TV", ASPEN TV
+#EXTINF:-1 tvg-id="AspenTV.py@Default" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/aspentv.png" group-title="🧪 PARAGUAY TV", ASPEN TV
 https://copacogen.desdeparaguay.net/aspentv/aspentv/index.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="NoticiasParaguay.py@SD" tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/e574059/2147483647/strip/true/resize/800x%5E/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff1%2F82%2F0f4ad1784b01a07ceac4d5aba972%2Flogo-npy-2024.webp" group-title=" 🧪 PARAGUAY TV ", Noticias Paraguay SD
@@ -171,12 +171,11 @@ https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8
 #EXTINF:-1 group-title=" 🧪 PARAGUAY TV " tvg-logo="https://i.ibb.co/s9Qr9gmw/image.png",NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 group-title=" 🧪 PARAGUAY TV ",Canal C9N OPC1
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:live-caching=1500
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/502900.m3u8
+##EXTINF:-1 tvg-name="UNICANAL PY" tvg-logo="https://i.postimg.cc/5t2xrS9D/download-64.jpg" group-title="🧪 PARAGUAY TV",UNICANAL PY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
+https://www.dailymotion.com/cdn/live/video/x9ko9z8.m3u8
 
 ############### 🇵🇾 TIGO SPORTS 🇵🇾 ###############
 
