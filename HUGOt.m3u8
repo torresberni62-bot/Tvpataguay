@@ -411,5 +411,8 @@ http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="⚽ Deportes",ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
 
