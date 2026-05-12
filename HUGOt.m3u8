@@ -182,7 +182,7 @@ http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/502900.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Tigo Sports.py@SD",Tigo Sports (720p)
+#EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png",TIGO EN VIVO (720p)
 https://live.enhdtv.com:8081/8160/index.m3u8
 
 #EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tigo_logo.svg",144 Fútbol Paraguayo (DRM)
