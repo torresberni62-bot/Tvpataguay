@@ -179,6 +179,17 @@ https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/502900.m3u8
 
 ############### 🇵🇾 TIGO SPORTS 🇵🇾 ###############
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="TIGO SPORTS",EVENTO 3
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:http-reconnect=true
+https://cdn6.zohanayaan.com:1686/hls/evento3.m3u8?md5=z8jMRAilAIXMPRjXbUhh6w&expires=1778551721
+
 #EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tigo_logo.svg",144 Fútbol Paraguayo (DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
