@@ -182,13 +182,12 @@ http://rlatinop.com:8880/live/AntonioMancilla/r5LmMSTayEbs/502900.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4YFhK9X/tv.png" group-title="TIGO SPORTS",EVENTO 3
-#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
-#EXTVLCOPT:http-reconnect=true
-https://cdn6.zohanayaan.com:1686/hls/evento3.m3u8?md5=z8jMRAilAIXMPRjXbUhh6w&expires=1778551721
+#EXTINF:-1 tvg-chno="41" tvg-id="Live.Event.us" tvg-name="[Live Event] Copa de Primera: Cerro Porteño vs Guaraní (STP)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="TIGO SPORTS",[Live Event] Copa de Primera: Cerro Porteño vs Guaraní (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=fanatiz3
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=fanatiz3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://pecdl1.streameasthd.net:443/global/fanatiz3/index.m3u8?token=495b2316c58cb628f53c4d2eef6ff1de80c84582-9a-1778570633-1778516633&
+
 
 #EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tigo_logo.svg",144 Fútbol Paraguayo (DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
