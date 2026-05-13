@@ -573,17 +573,534 @@ https://98ca2.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.214.240&t
 #EXTVLCOPT:http-reconnect=true
 http://38.210.3.64:8090/play/a0je/index.m3u8
 
-
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="⚽ Deportes",DSPORTS 2
-https://zb533.streamingtv339.com/dsports2/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=0bacd8f434bf67216a3aad7107cac8f4938d6c94-8e-1778645876-1778591876
-
-
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="⚽ Deportes",DSPORTS plus+
-https://pre.streameasthd.net/dsportsplus/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=f4ba9d21b9e2e120df24d659c6dcf5cd697cbbae-b4-1778647720-1778593720
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
-
 #EXTINF:-1 ch-number="11" tvg-id="Flow Sports.ar" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png" group-title="⚽ Deportes", Flow Sports
 https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd
 
+#EXTINF:0 group-title="⚽ Deportes:
+#EXTINF:0 group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png", TUDN
+#EXTVLCOPT:network-caching=1000
+http://168.228.44.241:9997/play/a09f
 
+
+#EXTINF:0 group-title="⚽ Deportes", Claro Sports 2
+#EXTVLCOPT:network-caching=1000
+http://181.78.192.238:8000/play/a2dk
+
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol HD
+#EXTVLCOPT:network-caching=1000
+http://190.61.40.187:45000/play/a024
+
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol H264
+#EXTVLCOPT:network-caching=1000
+http://181.78.20.77:18000/play/a03e
+
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.146.131:8008/play/a00h
+
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports HD Backup
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a011
+
+#EXTINF:0 group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-lam.png", TNT Sports
+#EXTVLCOPT:network-caching=1000
+http://179.1.95.167:18000/play/a0az
+
+
+#EXTINF:0 group-title="⚽ Deportes" tvg-logo="", NFL México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
+
+#EXTINF:0 group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
+
+#EXTINF:0 group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
+
+#EXTINF:0 tvg-id="ESPN 7.co" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png", ESPN 7 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01r
+
+#EXTINF:0 tvg-id="ESPN 6.co" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png", ESPN 6 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01q
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png", ESPN 6 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09s
+
+#EXTINF:0 tvg-id="ESPN 5.co" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png", ESPN 5 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01p
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png", ESPN 5 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09e
+
+#EXTINF:0 tvg-id="ESPN 4.co" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01o
+
+#EXTINF:0 tvg-id="ESPN 4.mx" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09t
+
+#EXTINF:0 tvg-id="ESPN 4.mx" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09t
+
+#EXTINF:0 tvg-id="ESPN 3.mx" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a094
+
+#EXTINF:0 tvg-id="ESPN 3.mx" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 HD (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a07r
+
+#EXTINF:0 tvg-id="ESPN 3.co" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01n
+
+#EXTINF:0 tvg-id="ESPN 2.mx" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a093
+
+#EXTINF:0 tvg-id="ESPN 2.cl" group-title="⚽ Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 (Chile)
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0 tvg-id="ESPN 2.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 HD (Chile)
+#EXTVLCOPT:network-caching=1000
+http://cirrus.trapemn.tv:1935/cirrus-backup/ESPN2.stream/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="ESPN 2.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01m
+
+
+#EXTINF:0 tvg-id="ESPN 2.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 HD (México)
+#EXTVLCOPT:network-caching=1000
+http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
+
+#EXTINF:0 tvg-id="ESPN.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a092
+
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01l
+
+#EXTINF:0 tvg-id="ESPN.ar" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (Argentina)
+#EXTVLCOPT:network-caching=1000
+https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
+
+
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://138.117.86.162:18000/play/a098
+
+#EXTINF:0 tvg-id="ESPN.co" group-title="One Futbol:
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png", TUDN
+#EXTVLCOPT:network-caching=1000
+http://168.228.44.241:9997/play/a09f
+
+
+#EXTINF:0 group-title="Deportes", Claro Sports 2
+#EXTVLCOPT:network-caching=1000
+http://181.78.192.238:8000/play/a2dk
+
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol HD
+#EXTVLCOPT:network-caching=1000
+http://190.61.40.187:45000/play/a024
+
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol H264
+#EXTVLCOPT:network-caching=1000
+http://181.78.20.77:18000/play/a03e
+
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.146.131:8008/play/a00h
+
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports HD Backup
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a011
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-lam.png", TNT Sports
+#EXTVLCOPT:network-caching=1000
+http://179.1.95.167:18000/play/a0az
+
+
+#EXTINF:0 group-title="Deportes" tvg-logo="", NFL México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
+
+#EXTINF:0 tvg-id="ESPN 7.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png", ESPN 7 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01r
+
+#EXTINF:0 tvg-id="ESPN 6.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png", ESPN 6 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01q
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png", ESPN 6 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09s
+
+#EXTINF:0 tvg-id="ESPN 5.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png", ESPN 5 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01p
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png", ESPN 5 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09e
+
+#EXTINF:0 tvg-id="ESPN 4.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01o
+
+#EXTINF:0 tvg-id="ESPN 4.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09t
+
+#EXTINF:0 tvg-id="ESPN 4.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09t
+
+#EXTINF:0 tvg-id="ESPN 3.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a094
+
+#EXTINF:0 tvg-id="ESPN 3.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 HD (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a07r
+
+#EXTINF:0 tvg-id="ESPN 3.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01n
+
+#EXTINF:0 tvg-id="ESPN 2.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a093
+
+#EXTINF:0 tvg-id="ESPN 2.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 (Chile)
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0 tvg-id="ESPN 2.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 HD (Chile)
+#EXTVLCOPT:network-caching=1000
+http://cirrus.trapemn.tv:1935/cirrus-backup/ESPN2.stream/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="ESPN 2.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01m
+
+
+#EXTINF:0 tvg-id="ESPN 2.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 HD (México)
+#EXTVLCOPT:network-caching=1000
+http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
+
+#EXTINF:0 tvg-id="ESPN.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a092
+
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01l
+
+#EXTINF:0 tvg-id="ESPN.ar" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (Argentina)
+#EXTVLCOPT:network-caching=1000
+https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
+
+
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://138.117.86.162:18000/play/a098
+
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN PREMIUM HD
+#EXTVLCOPT:network-caching=1000
+http://190.187.184.252:8000/play/a0es" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN PREMIUM HD
+#EXTVLCOPT:network-caching=1000
+http://190.187.184.252:8000/play/a0es:
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png", TUDN
+#EXTVLCOPT:network-caching=1000
+http://168.228.44.241:9997/play/a09f
+
+
+#EXTINF:0 group-title="Deportes", Claro Sports 2
+#EXTVLCOPT:network-caching=1000
+http://181.78.192.238:8000/play/a2dk
+
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol HD
+#EXTVLCOPT:network-caching=1000
+http://190.61.40.187:45000/play/a024
+
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol H264
+#EXTVLCOPT:network-caching=1000
+http://181.78.20.77:18000/play/a03e
+
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.146.131:8008/play/a00h
+
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports HD Backup
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a011
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-lam.png", TNT Sports
+#EXTVLCOPT:network-caching=1000
+http://179.1.95.167:18000/play/a0az
+
+
+#EXTINF:0 group-title="Deportes" tvg-logo="", NFL México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
+
+#EXTINF:0 tvg-id="ESPN 7.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png", ESPN 7 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01r
+
+#EXTINF:0 tvg-id="ESPN 6.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png", ESPN 6 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01q
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png", ESPN 6 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09s
+
+#EXTINF:0 tvg-id="ESPN 5.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png", ESPN 5 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01p
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png", ESPN 5 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09e
+
+#EXTINF:0 tvg-id="ESPN 4.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01o
+
+#EXTINF:0 tvg-id="ESPN 4.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09t
+
+#EXTINF:0 tvg-id="ESPN 4.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09t
+
+#EXTINF:0 tvg-id="ESPN 3.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a094
+
+#EXTINF:0 tvg-id="ESPN 3.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 HD (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a07r
+
+#EXTINF:0 tvg-id="ESPN 3.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01n
+
+#EXTINF:0 tvg-id="ESPN 2.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a093
+
+#EXTINF:0 tvg-id="ESPN 2.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 (Chile)
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0 tvg-id="ESPN 2.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 HD (Chile)
+#EXTVLCOPT:network-caching=1000
+http://cirrus.trapemn.tv:1935/cirrus-backup/ESPN2.stream/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="ESPN 2.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01m
+
+
+#EXTINF:0 tvg-id="ESPN 2.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 HD (México)
+#EXTVLCOPT:network-caching=1000
+http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
+
+#EXTINF:0 tvg-id="ESPN.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a092
+
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01l
+
+#EXTINF:0 tvg-id="ESPN.ar" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (Argentina)
+#EXTVLCOPT:network-caching=1000
+https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
+
+
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://138.117.86.162:18000/play/a098
+
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN PREMIUM HD
+#EXTVLCOPT:network-caching=1000
+http://190.187.184.252:8000/play/a0es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png", TUDN
+#EXTVLCOPT:network-caching=1000
+http://168.228.44.241:9997/play/a09f
+
+
+#EXTINF:0 group-title="Deportes", Claro Sports 2
+#EXTVLCOPT:network-caching=1000
+http://181.78.192.238:8000/play/a2dk
+
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol HD
+#EXTVLCOPT:network-caching=1000
+http://190.61.40.187:45000/play/a024
+
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol H264
+#EXTVLCOPT:network-caching=1000
+http://181.78.20.77:18000/play/a03e
+
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.146.131:8008/play/a00h
+
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports HD Backup
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a011
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-lam.png", TNT Sports
+#EXTVLCOPT:network-caching=1000
+http://179.1.95.167:18000/play/a0az
+
+
+#EXTINF:0 group-title="Deportes" tvg-logo="", NFL México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
+
+#EXTINF:0 tvg-id="ESPN 7.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png", ESPN 7 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01r
+
+#EXTINF:0 tvg-id="ESPN 6.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png", ESPN 6 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01q
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png", ESPN 6 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09s
+
+#EXTINF:0 tvg-id="ESPN 5.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png", ESPN 5 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01p
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png", ESPN 5 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09e
+
+#EXTINF:0 tvg-id="ESPN 4.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01o
+
+#EXTINF:0 tvg-id="ESPN 4.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09t
+
+#EXTINF:0 tvg-id="ESPN 4.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09t
+
+#EXTINF:0 tvg-id="ESPN 3.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a094
+
+#EXTINF:0 tvg-id="ESPN 3.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 HD (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a07r
+
+#EXTINF:0 tvg-id="ESPN 3.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01n
+
+#EXTINF:0 tvg-id="ESPN 2.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a093
+
+#EXTINF:0 tvg-id="ESPN 2.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 (Chile)
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0 tvg-id="ESPN 2.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 HD (Chile)
+#EXTVLCOPT:network-caching=1000
+http://cirrus.trapemn.tv:1935/cirrus-backup/ESPN2.stream/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="ESPN 2.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01m
+
+
+#EXTINF:0 tvg-id="ESPN 2.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 HD (México)
+#EXTVLCOPT:network-caching=1000
+http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
+
+#EXTINF:0 tvg-id="ESPN.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a092
+
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01l
+
+#EXTINF:0 tvg-id="ESPN.ar" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (Argentina)
+#EXTVLCOPT:network-caching=1000
+https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
+
+
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://138.117.86.162:18000/play/a098
+
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN PREMIUM HD
+#EXTVLCOPT:network-caching=1000
+http://190.187.184.252:8000/play/a0es
