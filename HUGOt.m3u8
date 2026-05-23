@@ -182,7 +182,13 @@ https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://www.dailymotion.com/cdn/live/video/x9ko9z8.m3u8
 ############### 🇵🇾 TIGO SPORTS 🇵🇾 ###############
+#EXTM3U
 
+#EXTINF:-1,Canal Buffer TS
+#EXTVLCOPT:network-caching=60000
+#EXTVLCOPT:live-caching=60000
+#EXTVLCOPT:http-reconnect=true
+http://45.170.130.224:8000/play/a04i/83508140.m3u8
 #EXTM3U
 
 #EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png",TIGO EN VIVO (720p)
