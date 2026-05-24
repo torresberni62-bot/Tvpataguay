@@ -183,8 +183,6 @@ https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 https://www.dailymotion.com/cdn/live/video/x9ko9z8.m3u8
 ############### 🇵🇾 TIGO SPORTS 🇵🇾 ###############
 #EXTM3U
-#EXTM3U
-
 #EXTINF:-1 group-title="TIGO SPORTS"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=3000
