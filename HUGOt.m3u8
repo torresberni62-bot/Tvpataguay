@@ -190,8 +190,7 @@ https://www.dailymotion.com/cdn/live/video/x9ko9z8.m3u8
 http://45.170.130.224:8000/play/a04i/36131958.m3u8
 
 #EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png",TIGO EN VIVO (720p)
-https://live.enhdtv.com:8081/8160/index.m3u8
-
+http://45.170.130.224:8000/play/a04i/36131958.m3u8
 #EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tigo_logo.svg",144 Fútbol Paraguayo (DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
