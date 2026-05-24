@@ -185,12 +185,12 @@ https://www.dailymotion.com/cdn/live/video/x9ko9z8.m3u8
 #EXTM3U
 #EXTM3U
 
-#EXTINF:-1,Canal Ultra Estable
-#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:network-caching=60000
-#EXTVLCOPT:live-caching=60000
+#EXTINF:-1 group-title="TIGO SPORTS"
 #EXTVLCOPT:http-reconnect=true
-http://45.170.130.224:8000/play/a04i/83508140.m3u8
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://45.170.130.224:8000/play/a04i/36131958.m3u8
+
 #EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png",TIGO EN VIVO (720p)
 https://live.enhdtv.com:8081/8160/index.m3u8
 
