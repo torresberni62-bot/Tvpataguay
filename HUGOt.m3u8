@@ -123,10 +123,16 @@ https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist.m3u8?admin=nacion
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=3000
 https://tigocloud.desdeparaguay.net/unicanal/unicanal_alta/index.m3u8
+#EXTM3U
 
-#EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.ibb.co/d4s6q5mD/image.png" group-title=" 🧪 PARAGUAY TV ",ABC
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(MrVJIk9YOHBx4EjUMDFk_y1VR08FbTJMFgqySLZZSw1_dSroGNZw805Ht8nFavNIzZF1HdTtG9yi7pYWOiEw166_bXwMuVcUZeTaT1zMc8fNPmIFccoVyqKdgqmdw-x_)/cloud/3/x9skr3m/d/live-480.m3u8#cell=lcf2-eu-north-1a
-
+#EXTINF:-1 tvg-name="ABC TV Paraguay" group-title=" 🧪 PARAGUAY TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/ABC_TV_Paraguay_logo.png",ABC TV Paraguay
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
+#EXTVLCOPT:http-origin=https://geo.dailymotion.com
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-reconnect=true
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(0AFjSUICGhABY5ry5ERuqH3fJIvQXlhOcfych4nnyA3yZAgMOuHpkOLwboykJvIQef_Vz4vVypPjDAaKe0AJnHA_v0uUuJ0abCsORI6o4pFmHxVmZsFqvGSaQW6q0Sq-)/cloud/3/x9skr3m/d/live-480.m3u8
 #EXTINF:-1 tvg-name="ABC TV Paraguay" group-title=" 🧪 PARAGUAY TV",ABC TV Paraguay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.abc.com.py/
