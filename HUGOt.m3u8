@@ -127,8 +127,10 @@ https://tigocloud.desdeparaguay.net/unicanal/unicanal_alta/index.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.ibb.co/d4s6q5mD/image.png" group-title=" 🧪 PARAGUAY TV ",ABC
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(MrVJIk9YOHBx4EjUMDFk_y1VR08FbTJMFgqySLZZSw1_dSroGNZw805Ht8nFavNIzZF1HdTtG9yi7pYWOiEw166_bXwMuVcUZeTaT1zMc8fNPmIFccoVyqKdgqmdw-x_)/cloud/3/x9skr3m/d/live-480.m3u8#cell=lcf2-eu-north-1a
 
-#EXTINF:-1 tvg-name="ABC Backup" tvg-logo="https://i.ibb.co/d4s6q5mD/image.png" group-title=" 🧪 PARAGUAY TV ",ABC Backup
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+#EXTINF:-1 tvg-name="ABC TV Paraguay" group-title="Paraguay",ABC TV Paraguay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.abc.com.py/
+https://www.dailymotion.com/cdn/manifest/video/x9uz5hi.m3u8
 
 #EXTINF:-1 tvg-name="E40" tvg-logo="https://i.ibb.co/jz9XkvP/e40.png" group-title=" 🧪 PARAGUAY TV ",E40
 https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
