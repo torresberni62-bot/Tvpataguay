@@ -1,4 +1,4 @@
-
+o
 ########## 🧪 PARAGUAY TV ##########
 
 #EXTM3U
@@ -41,7 +41,7 @@ https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tva
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="ABCtv.py@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG" group-title=" 🧪 PARAGUAY TV ", ABC-TV 
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+https://cdndirector.dailymotion.com/cdn/live/video/x9skr3m.m3u8?sec=dUovmUuoMxhDzZwz-tlinxJTi65s-u8REbaYOpqhtZjNI7YPfv4uEgF1XOvVBkWPtfjpdN0esD8jtGPzii27KRbG8CxDp5EbXmWyGO2nam4&dmTs=237236&dmV1st=1fbb5cda-8a13-21f8-ea6f-4f4119955e4b
 
 #EXTINF:-1 tvg-id="4DmasNoticiasTV.py@SD" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" group-title=" 🧪 PARAGUAY TV ", 4D+ TV
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
