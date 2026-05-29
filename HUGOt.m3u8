@@ -2,10 +2,11 @@ o
 ########## 🧪 PARAGUAY TV ##########
 
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal OTT" group-title="🧪 PARAGUAY TV",Canal OTT
-#EXTVLCOPT:http-user-agent=Ranger/4.9.5-ebebe425
-#EXTVLCOPT:http-referrer=http://192.3.6.18:30201/
-#EXTHTTP:{"User-Agent":"Ranger/4.9.5-ebebe425","App":"com.msandroid.mobile","App-Version":"60500","Connection":"Keep-Alive"}
+
+#EXTINF:-1,Canal OTT
+#KODIPROP:http-user-agent=Ranger/4.9.5-ebebe425
+#KODIPROP:http-referrer=http://192.3.6.18:30201/
+#EXTHTTP:{"User-Agent":"Ranger/4.9.5-ebebe425","App":"com.msandroid.mobile","App-Version":"60500","Accept":"*/*","Connection":"Keep-Alive"}
 http://192.3.6.18:30201/live/cyx_67673B12B8BDB756EDB682F5.m3u8
 ✔️ 🇵🇾 Next
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHnextparaguay.png" group-title="🧪 PARAGUAY TV",✔️ 🇵🇾 Next
