@@ -127,13 +127,14 @@ https://tigocloud.desdeparaguay.net/unicanal/unicanal_alta/index.m3u8
 #EXTM3U
 
 #EXTINF:-1 tvg-name="ABC TV Paraguay" group-title=" 🧪 PARAGUAY TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/ABC_TV_Paraguay_logo.png",ABC TV Paraguay
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
-#EXTVLCOPT:http-origin=https://geo.dailymotion.com
+#KODIPROP:inputstream.adaptive.manifest_type=CLEARKEY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+#EXTVLCOPT:http-origin=https:https://portal.app.flow.com.py
 #EXTVLCOPT:network-caching=12000
 #EXTVLCOPT:http-reconnect=true
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(0AFjSUICGhABY5ry5ERuqH3fJIvQXlhOcfych4nnyA3yZAgMOuHpkOLwboykJvIQef_Vz4vVypPjDAaKe0AJnHA_v0uUuJ0abCsORI6o4pFmHxVmZsFqvGSaQW6q0Sq-)/cloud/3/x9skr3m/d/live-480.m3u8
+https://chromecast.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd
+
 #EXTINF:-1 tvg-name="ABC TV Paraguay" group-title=" 🧪 PARAGUAY TV",ABC TV Paraguay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.abc.com.py/
