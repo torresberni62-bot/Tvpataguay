@@ -2807,3 +2807,61 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:0 group-title="Infantiles",Pequeradio TV
 #EXTVLCOPT:network-caching=1000
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina4.xml", "https://epg.programadorx.cl/mdiaz/gratis.xml", "https://www.open-epg.com/files/argentina7.xml"
+
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports Op1 (1080)
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports Op2 (720)
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_720.m3u8
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports Op3
+https://kh5vy.envivoslatam.org:443/hotflix/tycsports/index.m3u8?token=5ec5d85726b49aa1e81d0a464b3c546cb04a7091-ba-1771802758-1771748758&ip=45.179.74.55
+
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-name="ESPN HD" tvg-logo="http://cdn-abc.xyz:2086/images/EbDaVYPoJTd1DFFXD4-lVpaEofnF7qFe6TVWhYlJ_5UanmAvgiu0XqZUEEaoQr3BgH11mHHeagwaAcAbXUU6iw.png" group-title="DEPORTES",ESPN HD Op1
+https://xky9q.envivoslatam.org:443/hotflix/espn/index.m3u8?token=ad19d8c8816c6c09022a07f561889710415830f0-51-1771801231-1771747231&ip=45.179.74.55
+
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-name="ESPN HD" tvg-logo="http://cdn-abc.xyz:2086/images/EbDaVYPoJTd1DFFXD4-lVpaEofnF7qFe6TVWhYlJ_5UanmAvgiu0XqZUEEaoQr3BgH11mHHeagwaAcAbXUU6iw.png" group-title="DEPORTES",ESPN HD Op2
+https://a2vlca.fubohd.com:443/espn/mono.m3u8?token=a30be5b68a212928e7c8ac4356dd2bbe6bb013a3-fe-1771787027-1771769027
+
+
+#EXTINF:-1 tvg-id="DTSAHD.ar" tvg-name="DSPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="DEPORTES",DSPORTS Op 1
+https://aw1wcm92zq.fubohd.com:443/dsports/mono.m3u8?token=1282a49ca935b8d82984eccf7c0399dbd12aef0b-b7-1771787119-1771769119
+#EXTINF:-1 tvg-id="DTSAHD.ar" tvg-name="DEPORTES - Directv Sports" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="DEPORTES",DSports Op2
+https://mze7u.envivoslatam.org:443/hotflix/dsports/index.m3u8?token=6134aa980488ef323dfb15c2faf519b6f950d066-fb-1771801980-1771747980&ip=45.179.74.55
+
+#EXTINF:-1 xui-id="3484" tvg-id="DTV2HD.ar" tvg-name="DSPORTS 2" tvg-logo="http://cdn-abc.xyz:2086/images/qcSXhPthTapOWllvZLj0cist7aGnVQ26-ShA-8LvDWqAvJxVxArhC3wjE4TRVdS3f_e_bh9HSSf81Dg_E48FPqiOU8-Nv87DLn0qmM-kmY98EsETjKFfYeTiOca6rhFxQbt9dKN0rIoZA-iqSX3nI3AojoYOzVIZaVinYncIgzs.png" group-title="DEPORTES",DSPORTS 2
+https://mze7u.envivoslatam.org:443/hotflix/dsports2/index.m3u8?token=094c21eea68c139ba8084125055bb8ed6808dcf1-9c-1771802380-1771748380&ip=45.179.74.55
+#EXTINF:-1 xui-id="3485" tvg-id="DTS+HD.ar" tvg-name="DSPORTS +" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1748761710537" group-title="DEPORTES",DSPORTS +
+https://pvtn5y.envivoslatam.org:443/hotflix/dsportsplus/index.m3u8?token=481ea095491fe076c25237e55edafcb7125419c1-48-1771802479-1771748479&ip=45.179.74.55
+
+#EXTINF:-1 xui-id="160136" tvg-id="FOX Sports Premium.ar" tvg-name="ESPN PREMIUM ARG" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jQzPxyJwX4C_S6xDdYAIvEz4w2o2VRNdsVNwHmh94fR4xPvT3sf1upLUNU6BL84E-g.png" group-title="DEPORTES",ESPN PREMIUM ARG Op1
+https://ng0pr.envivoslatam.org:443/hotflix/espnpremium/index.m3u8?token=4991d693134a5a3c537ed787dbfd5dda055bd82a-d1-1771802624-1771748624&ip=45.179.74.55
+#EXTINF:-1 xui-id="160136" tvg-id="FOX Sports Premium.ar" tvg-name="ESPN PREMIUM ARG" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jQzPxyJwX4C_S6xDdYAIvEz4w2o2VRNdsVNwHmh94fR4xPvT3sf1upLUNU6BL84E-g.png" group-title="DEPORTES",ESPN PREMIUM ARG Op2
+https://agvyby.fubohd.com:443/espnpremium/mono.m3u8?token=a1be185867994a5ea1f78f3f897be1096d00075c-1e-1771787277-1771769277
+
+#EXTINF:-1 xui-id="8088" tvg-id="TNT Sports.ar" tvg-name="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/52/Logo_TNT_Sports_2021.png/revision/latest?cb=20210118175837&path-prefix=es" group-title="DEPORTES",TNT SPORTS Op 1
+https://iaw5b.envivoslatam.org:443/hotflix/tntsports/index.m3u8?token=4e3c69ee27750025c4d2b152ff1179a7611865c7-97-1771802683-1771748683&ip=45.179.74.55
+#EXTINF:-1 xui-id="8088" tvg-id="TNT Sports.ar" tvg-name="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/52/Logo_TNT_Sports_2021.png/revision/latest?cb=20210118175837&path-prefix=es" group-title="DEPORTES",TNT SPORTS Op 2
+https://aw1wcm92zq.fubohd.com:443/tntsports/mono.m3u8?token=07ac52aeffa1aa30325c71c4a48e71e39c259f9f-67-1771787339-1771769339
+
+#EXTINF:-1 xui-id="160132" tvg-id="622dtv.ar" tvg-name="ESPN 2 ARG" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jX4S6rNSQCfigTn_e9CgAUA7SBAKJSSbORKUmo8aK59TCY0ga2WiJnzCloQZW24uNw.png" group-title="DEPORTES",ESPN 2 ARG
+https://x4bnd7lq.fubohd.com:443/espn2/mono.m3u8?token=affce17e9f5914b69c9eed363f66d9d21d8a0cd8-c9-1771788039-1771770039
+#EXTINF:-1 xui-id="160133" tvg-id="1623dtv.ar" tvg-name="ESPN 3 ARG" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jenT97NTB7etohlelnfPd_IeY4UN2Fh9HUucvRBCBh1UMGrojkG5fSjPb8tWFLrm4Q.png" group-title="DEPORTES",ESPN 3 ARG
+https://ym9yzq.fubohd.com:443/espn3/mono.m3u8?token=4f0e807291556745a72f0284bc10f25bbb628963-47-1771788077-1771770077
+#EXTINF:-1 xui-id="160134" tvg-id="1620dtv.cl" tvg-name="ESPN 4 ARG" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jaGymw5wzZUpLrry3dteh78wzQ-aeVEuMfXnuZ3ScdzZRkun7281vOweLTe3QAkmKw.png" group-title="DEPORTES",ESPN 4 ARG
+https://aw1wcm92zq.fubohd.com:443/espn4/mono.m3u8?token=191c3c9592384e0b1fdad3a122594a8e5fac1e2b-96-1771788119-1771770119
+#EXTINF:-1 xui-id="3712" tvg-id="624dtv.co" tvg-name="ESPN 5HD" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/b/bb/Espn5.jpg/revision/latest/scale-to-width-down/1200?cb=20240217221020&path-prefix=pt-br" group-title="DEPORTES",ESPN 5HD
+https://agvyby.fubohd.com:443/espn5/mono.m3u8?token=729fd217cd7b26d1e13b57acefbb11d153ca3e7f-f5-1771788159-1771770159
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="DEPORTES - Espn 6 MX (Z)(720)" tvg-logo="https://i.ibb.co/vv1FJdNV/image.png" group-title="DEPORTES",ESPN 6
+https://ag9wzq.fubohd.com:443/espn6/mono.m3u8?token=e5c491f00ba3cd04b909e4b8afc7927b2f1722e2-4e-1771788337-1771770337
+#EXTINF:-1 xui-id="112610" tvg-id="3082dtv.cl" tvg-name="ESPN 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsgJEEP_VopjfJSYeu1qMUwrRj_lFC3_evyg&s" group-title="DEPORTES",ESPN 7
+https://agvyby.fubohd.com:443/espn7/mono.m3u8?token=6f03fdae63b2956200011c56b9f62fb1cdcb48ef-21-1771788374-1771770374
+
+#EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-name="DEPORTES - Fox Deportes (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="DEPORTES",Fox Sports
+https://agvyby.fubohd.com:443/foxsports/mono.m3u8?token=cfc8a0193df5a12e50ca4903fdab23920cc63b45-ed-1771787663-1771769663
+#EXTINF:-1 tvg-id="FOX Sports 2.ar" tvg-name="DEPORTES - Fox Sports 2 ARG (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="DEPORTES",Fox Sports 2
+https://anvtcax.fubohd.com:443/foxsports2/mono.m3u8?token=e03d37be8857e564d93c03afa9e42517ca4064fe-bd-1771788660-1771770660
+#EXTINF:-1 tvg-id="CFOX Sports 3.ar" tvg-name="DEPORTES - Fox Sports 3 ARG (i)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="DEPORTES",Fox Sports 3
+https://aw1wcm92zq.fubohd.com:443/foxsports3/mono.m3u8?token=33d44da8e04b2c978aed38e4d2f23b525bf6ad10-d4-1771788695-1771770695
+
+
