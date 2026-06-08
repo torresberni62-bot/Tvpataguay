@@ -9,9 +9,7 @@
 #KODIPROP:inputstream.adaptive.license_key={"keys"
 [{"kty":"oct","kid":"7c6a481adf6a080ec09637d3f25989cf","k":"036e343d636b821ab81838de387b62cb"}]}
 #EXTINF:-1 tvg-name="LA TELE" tvg-logo="https://iptvstudio.pages.dev/logos/paraguay/latele.png" group-title="Paraguay",LA TELE
-https://chromecast.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd|
-Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/&User-Agent=Mozilla/5.0
-
+https://chromecast.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd
 ✔️ 🇵🇾 Next
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHnextparaguay.png" group-title="🧪 PARAGUAY TV",✔️ 🇵🇾 Next
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
