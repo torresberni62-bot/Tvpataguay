@@ -1232,6 +1232,9 @@ http://45.170.130.224:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Paraguay",Unicanal Paraguay HD [Opc.2]
 http://45.170.130.224:8000/play/a04y/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Paraguay",Unicanal Paraguay HD [Opc.3]
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(1vSRwu5CePxBIZB-_Z7A_OeNAeQ_VxV3Ji4Uem_Y0fi4elPrRddjs0ulTMlq2WOuYMnQwEWXY36IPt4anKLxiPe7rskP7hsrvxsFcf7zi6wfyUUj6Ah6m46JSqVbAWinxOOqL6YR7S_UJWLT7xMfUg)/cloud/3/xak2lou/s/live-380.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ltJQvZd.png" group-title="Paraguay",Sur TV Paraguay SD
 http://45.170.130.224:8000/play/a036/index.m3u8
 
@@ -1243,8 +1246,10 @@ http://45.170.130.224:8000/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD
 http://45.170.130.224:8000/play/a04j/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD
 https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w490936919.m3u8?k=0520443179d21f458b6de38a684e763357b154f41af122ff1e7d88132cf690de&exp=1783190428
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay",La Tele Paraguay SD
 http://45.170.130.224:8000/play/a03u/index.m3u8
 
