@@ -1,6 +1,12 @@
 ############### 🇵🇾 TIGO SPORTS 🇵🇾 ###############
 #EXTM3U
-
+#EXTINF:-1 tvg-name="Fanatiz" group-title="TIGO SPORTS",Fanatiz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://streamx488.sbs
+#EXTVLCOPT:http-referrer=https://streamx488.sbs/
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+https://p1.domain761.sbs/fanatiz4/index.m3u8?token=d61f7a06490291117efdd0785c84d07edc4ebd91-f4-1784974569-1784920569
 #EXTINF:-1 tvg-id="TigoSportsPlus.py@SD" tvg-name="Tigo Sports+" tvg-logo="https://i.postimg.cc/5t2xrS9D/download-64.jpg" group-title="TIGO SPORTS",Tigo Sports+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
