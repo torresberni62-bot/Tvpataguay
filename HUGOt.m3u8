@@ -9,14 +9,13 @@
 #EXTVLCOPT:network-caching=20000
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36&Referer=http://45.170.130.224:8000/
-https://p2.domain761.sbs/fanatiz4/tracks-v1a1/mono.m3u8?token=a2d24d8b7259eda774841568723d3b941c0dc689-3f-1784973330-1784919330
+http://45.170.130.224:8000/play/a04k/index.m3u8
 
 
 #EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tigo_logo.svg",144 Fútbol Paraguayo (DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
-
 #EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png",145 Fútbol Paraguay
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
@@ -44,7 +43,8 @@ https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&
 #EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png",TIGO EN VIVO
 http://45.170.130.224:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-name="TIGO 24/7 Opc.2" tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="TIGO SPORTS",TIGO 24/7 Opc.2
-http://45.170.130.224:8000/play/a04k/index.m3u8
+https://p2.domain761.sbs/fanatiz4/tracks-v1a1/mono.m3u8?token=a2d24d8b7259eda774841568723d3b941c0dc689-3f-1784973330-1784919330
+
 
 #EXTM3U
 EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/snt.webp",SNT
