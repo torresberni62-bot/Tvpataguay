@@ -1,23 +1,15 @@
 ############### 🇵🇾 TIGO SPORTS 🇵🇾 ###############
 #EXTM3U
-#EXTM3U
-#EXTINF:-1,Tigo Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
-#EXTVLCOPT:http-origin=https://www.tigosports.com.py
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android TV)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="Paraguay",EVENTOS PY TIGO
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
-#EXTINF:-1 tvg-name="Fanatiz" group-title="TIGO SPORTS",Fanatiz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://streamx488.sbs
-#EXTVLCOPT:http-referrer=https://streamx488.sbs/
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:live-caching=3000
-https://p2.domain761.sbs/fanatiz6/index.m3u8?token=fb7b9b437ba17a95561693a2bdc47743d03ee505-c2-1785139096-1785085096
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="Paraguay",EVENTOS+ PY TIGO 2
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 #EXTINF:-1 tvg-id="TigoSportsPlus.py@SD" tvg-name="Tigo Sports+" tvg-logo="https://i.postimg.cc/5t2xrS9D/download-64.jpg" group-title="TIGO SPORTS",Tigo Sports+
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=http://45.170.130.224:8000/
 #EXTVLCOPT:http-reconnect=true
