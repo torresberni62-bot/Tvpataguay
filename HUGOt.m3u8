@@ -1,5 +1,14 @@
 ############### 🇵🇾 TIGO SPORTS 🇵🇾 ###############
 #EXTM3U
+#EXTM3U
+#EXTINF:-1,Tigo Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
+#EXTVLCOPT:http-origin=https://www.tigosports.com.py
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android TV)
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
 #EXTINF:-1 tvg-name="Fanatiz" group-title="TIGO SPORTS",Fanatiz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://streamx488.sbs
