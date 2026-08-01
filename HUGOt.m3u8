@@ -1,5 +1,10 @@
 ############### 🇵🇾 TIGO SPORTS 🇵🇾 ###############
 
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS BOLIVIA 1" tvg-logo="http://lamtv.site:8080/images/32ac9686-6b49-40f3-b93f-71c375365526.jpg" group-title="âš¡ TIGO SPORT",TIGO SPORTS BOLIVIA 1
+http://lamtv.site:8080/Arturo2025/arturito25/29698.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS BOLIVIA 2" tvg-logo="http://lamtv.site:8080/images/32ac9686-6b49-40f3-b93f-71c375365526.jpg" group-title="âš¡ TIGO SPORT",TIGO SPORTS BOLIVIA 2
+http://lamtv.site:8080/Arturo2025/arturito25/82155.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
