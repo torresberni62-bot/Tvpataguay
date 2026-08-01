@@ -1,4 +1,9 @@
 ############### 🇵🇾 TIGO SPORTS 🇵🇾 ###############
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS PARAGUAY 1" tvg-logo="http://lamtv.site:8080/images/tigosportspy.png" group-title="âš¡ TIGO SPORT",TIGO SPORTS PARAGUAY 1
+http://lamtv.site:8080/Arturo2025/arturito25/29695.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS PARAGUAY 2" tvg-logo="http://lamtv.site:8080/images/tigosportspy.png" group-title="âš¡ TIGO SPORT",TIGO SPORTS PARAGUAY 2
+http://lamtv.site:8080/Arturo2025/arturito25/29696.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS BOLIVIA 1" tvg-logo="http://lamtv.site:8080/images/32ac9686-6b49-40f3-b93f-71c375365526.jpg" group-title="âš¡ TIGO SPORT",TIGO SPORTS BOLIVIA 1
 http://lamtv.site:8080/Arturo2025/arturito25/29698.m3u8
