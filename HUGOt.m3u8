@@ -60,10 +60,11 @@ https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&
 
 #EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png",TIGO EN VIVO
 http://45.170.130.224:8000/play/a04i/index.m3u8
+
 #EXTINF:-1 tvg-name="TIGO 24/7 Opc.2" tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="TIGO SPORTS",TIGO 24/7 Opc.2
 https://p2.domain761.sbs/fanatiz4/tracks-v1a1/mono.m3u8?token=a2d24d8b7259eda774841568723d3b941c0dc689-3f-1784973330-1784919330
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD
-https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
+https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay SD [Opc.2]
 http://45.170.130.224:8000/play/a013/index.m3u8
