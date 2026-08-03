@@ -1218,3 +1218,240 @@ https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHcanalclaro.png" group-title="❤️ Novelas",✔️ Canal Claro
 http://45.167.1.136:8000/play/a00o
 
+âœ”ï¸ Film & Arts ðŸ“±
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfilm&arts.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Film & Arts ðŸ“±
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91c540d350f34f5386f3f1c77f74001f:54ee72810551da0cba0c45a8df651962
+https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_C/Film_Arts.mpd
+
+âœ”ï¸ Film & Arts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfilm&arts.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Film & Arts
+http://45.167.1.136:8000/play/a00a
+
+âœ”ï¸ Filmex
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfilmex.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Filmex
+
+
+âœ”ï¸ Filmex Clasico
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfilmexclasico.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Filmex Clasico
+
+
+âœ”ï¸ FreeTV Accion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvaccion.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ FreeTV Accion
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16200
+
+âœ”ï¸ FreeTV Drama
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvdrama.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ FreeTV Drama
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16198
+
+âœ”ï¸ FreeTV Estelar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvestelar.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ FreeTV Estelar
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16197
+
+âœ”ï¸ FreeTV Familia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvfamilia.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ FreeTV Familia
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16196
+
+âœ”ï¸ FreeTV Live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvlive.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ FreeTV Live
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16195
+
+âœ”ï¸ FreeTV SureÃ±o
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvsureÃ±o.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ FreeTV SureÃ±o
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16201
+
+âœ”ï¸ FreeTV Terror
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvterror.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ FreeTV Terror
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16194
+
+âœ”ï¸ FX ðŸ“±
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfx.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ FX ðŸ“±
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ab9c42c713e0fb5517dc77cc19d6755:d8c271b82387e609b6c19e5e79240aff
+https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_C/FXHD.mpd
+
+âœ”ï¸ FX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfx.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ FX
+http://45.167.1.136:8000/play/a02d
+
+âœ”ï¸ Golden ðŸ“±
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgolden.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Golden ðŸ“±
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7d085dbd4539afcc6a55445efb2b04e:0a55fbe044fed379d1632b589265b571
+https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd
+
+âœ”ï¸ Golden
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgolden.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Golden
+http://45.5.117.57:8999/play/a02g/index.m3u8
+
+âœ”ï¸ Golden
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgolden.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Golden
+http://45.167.1.136:8000/play/a02r
+
+âœ”ï¸ Golden Plus
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenplus.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Golden Plus
+
+
+âœ”ï¸ Golden Premier
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenpremier.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Golden Premier
+
+
+âœ”ï¸ Golden Premier 2
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenpremier2.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Golden Premier 2
+
+
+âœ”ï¸ Grjngo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgrjngo.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Grjngo
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
+
+âœ”ï¸ HBO ðŸ“±
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO ðŸ“±
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
+https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd
+
+âœ”ï¸ HBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO
+http://45.167.1.136:8000/play/a00h
+
+âœ”ï¸ HBO 2 ðŸ“±
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo2.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO 2 ðŸ“±
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
+https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd
+
+âœ”ï¸ HBO 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo2.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO 2
+http://45.167.1.136:8000/play/a00i
+
+âœ”ï¸ HBO Family ðŸ“±
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbofamily.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO Family ðŸ“±
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd
+
+âœ”ï¸ HBO Family
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbofamily.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO Family
+http://45.167.1.136:8000/play/a00k
+
+âœ”ï¸ HBO Mundi ðŸ“±
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbomundi.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO Mundi ðŸ“±
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd
+
+âœ”ï¸ HBO Mundi
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbomundi.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO Mundi
+http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-110.playlist.m3u8
+
+âœ”ï¸ HBO+ ðŸ“±
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo+.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO+ ðŸ“±
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_C/HBO_Plus.mpd
+
+âœ”ï¸ HBO+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo+.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO+
+http://45.167.1.136:8000/play/a00j
+
+âœ”ï¸ HBO Pop ðŸ“±
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbopop.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO Pop ðŸ“±
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
+https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_C/HBO_POP.mpd
+
+âœ”ï¸ HBO Pop
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbopop.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO Pop
+
+
+âœ”ï¸ HBO Signature ðŸ“±
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbosignature.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO Signature ðŸ“±
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_C/HBO_Signature.mpd
+
+âœ”ï¸ HBO Signature
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbosignature.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO Signature
+http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-107.playlist.m3u8
+
+âœ”ï¸ HBO Xtreme ðŸ“±
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhboxtreme.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO Xtreme ðŸ“±
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd
+
+âœ”ï¸ HBO Xtreme
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhboxtreme.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO Xtreme
+http://45.167.1.136:8000/play/a00l
+
+âœ”ï¸ HBO Xtreme
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhboxtreme.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ HBO Xtreme
+http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-103.playlist.m3u8
+
+âœ”ï¸ Imagen Universal TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHimagenuniversaltv.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Imagen Universal TV
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+
+âœ”ï¸ Mega Cine TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHmegacinetv.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Mega Cine TV
+https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+
+âœ”ï¸ MyTime Movie Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHmytimemovienetwork.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ MyTime Movie Network
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+âœ”ï¸ MyTime Movie Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHmytimemovienetwork.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ MyTime Movie Network
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+âœ”ï¸ Paramount +
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHparamount+.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Paramount +
+
+
+âœ”ï¸ Pluto TV Cine Accion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHplutotvcineaccion.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Pluto TV Cine Accion
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=22319ba2-5391-11f1-b9c6-7c1e52ff1f5c&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=22319ba2-5391-11f1-b9c6-7c1e52ff1f5c&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=22370a0d-5391-11f1-ba41-5a92aee57698&sid=22370a0d-5391-11f1-ba41-5a92aee57698&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjIzNTdjNjJlLTNmMmMtNGVjMS05ZWIwLWYxNmVkNDJhMzc3YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIyMjM3MGEwZC01MzkxLTExZjEtYmE0MS01YTkyYWVlNTc2OTgiLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImZ3VmNJRDJDb3BwYSI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiMjIzMTliYTItNTM5MS0xMWYxLWI5YzYtN2MxZTUyZmYxZjVjIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSwxMDAxMywxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMCwxMDAyMSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3OTIwMTgyMzQ1OSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk1qSXpNVGxpWVRJdE5UTTVNUzB4TVdZeExXSTVZell0TjJNeFpUVXlabVl4WmpWaiIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzkyODgyMjMsImlhdCI6MTc3OTIwMTgyMywianRpIjoiNzdkNmY1NGMtNGVkOC00NmZjLWEzNTEtMTRlZjYxNDliNmFkIn0.hePV9WCJ4YytToI2aMHvuRXuMTWae_HPK5-rzweDqPI&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
+
+âœ”ï¸ Pluto TV Cine Comedia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHplutotvcinecomedia.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Pluto TV Cine Comedia
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=22319ba2-5391-11f1-b9c6-7c1e52ff1f5c&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=22319ba2-5391-11f1-b9c6-7c1e52ff1f5c&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=22370a0d-5391-11f1-ba41-5a92aee57698&sid=22370a0d-5391-11f1-ba41-5a92aee57698&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjIzNTdjNjJlLTNmMmMtNGVjMS05ZWIwLWYxNmVkNDJhMzc3YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIyMjM3MGEwZC01MzkxLTExZjEtYmE0MS01YTkyYWVlNTc2OTgiLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImZ3VmNJRDJDb3BwYSI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiMjIzMTliYTItNTM5MS0xMWYxLWI5YzYtN2MxZTUyZmYxZjVjIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSwxMDAxMywxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMCwxMDAyMSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3OTIwMTgyMzQ1OSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk1qSXpNVGxpWVRJdE5UTTVNUzB4TVdZeExXSTVZell0TjJNeFpUVXlabVl4WmpWaiIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzkyODgyMjMsImlhdCI6MTc3OTIwMTgyMywianRpIjoiNzdkNmY1NGMtNGVkOC00NmZjLWEzNTEtMTRlZjYxNDliNmFkIn0.hePV9WCJ4YytToI2aMHvuRXuMTWae_HPK5-rzweDqPI&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
+
+âœ”ï¸ Pluto TV Cine Drama
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHplutotvcinedrama.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Pluto TV Cine Drama
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=22319ba2-5391-11f1-b9c6-7c1e52ff1f5c&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=22319ba2-5391-11f1-b9c6-7c1e52ff1f5c&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=22370a0d-5391-11f1-ba41-5a92aee57698&sid=22370a0d-5391-11f1-ba41-5a92aee57698&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjIzNTdjNjJlLTNmMmMtNGVjMS05ZWIwLWYxNmVkNDJhMzc3YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIyMjM3MGEwZC01MzkxLTExZjEtYmE0MS01YTkyYWVlNTc2OTgiLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImZ3VmNJRDJDb3BwYSI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiMjIzMTliYTItNTM5MS0xMWYxLWI5YzYtN2MxZTUyZmYxZjVjIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSwxMDAxMywxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMCwxMDAyMSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3OTIwMTgyMzQ1OSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk1qSXpNVGxpWVRJdE5UTTVNUzB4TVdZeExXSTVZell0TjJNeFpUVXlabVl4WmpWaiIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzkyODgyMjMsImlhdCI6MTc3OTIwMTgyMywianRpIjoiNzdkNmY1NGMtNGVkOC00NmZjLWEzNTEtMTRlZjYxNDliNmFkIn0.hePV9WCJ4YytToI2aMHvuRXuMTWae_HPK5-rzweDqPI&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
+
+âœ”ï¸ Pluto TV Cine Terror
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHplutotvcineterror.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Pluto TV Cine Terror
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=22319ba2-5391-11f1-b9c6-7c1e52ff1f5c&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=22319ba2-5391-11f1-b9c6-7c1e52ff1f5c&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=22370a0d-5391-11f1-ba41-5a92aee57698&sid=22370a0d-5391-11f1-ba41-5a92aee57698&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjIzNTdjNjJlLTNmMmMtNGVjMS05ZWIwLWYxNmVkNDJhMzc3YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIyMjM3MGEwZC01MzkxLTExZjEtYmE0MS01YTkyYWVlNTc2OTgiLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImZ3VmNJRDJDb3BwYSI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiMjIzMTliYTItNTM5MS0xMWYxLWI5YzYtN2MxZTUyZmYxZjVjIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSwxMDAxMywxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMCwxMDAyMSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3OTIwMTgyMzQ1OSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk1qSXpNVGxpWVRJdE5UTTVNUzB4TVdZeExXSTVZell0TjJNeFpUVXlabVl4WmpWaiIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzkyODgyMjMsImlhdCI6MTc3OTIwMTgyMywianRpIjoiNzdkNmY1NGMtNGVkOC00NmZjLWEzNTEtMTRlZjYxNDliNmFkIn0.hePV9WCJ4YytToI2aMHvuRXuMTWae_HPK5-rzweDqPI&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
+
+âœ”ï¸ Pluto TV Series
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHplutotvseries.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Pluto TV Series
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=22319ba2-5391-11f1-b9c6-7c1e52ff1f5c&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=22319ba2-5391-11f1-b9c6-7c1e52ff1f5c&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=22370a0d-5391-11f1-ba41-5a92aee57698&sid=22370a0d-5391-11f1-ba41-5a92aee57698&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjIzNTdjNjJlLTNmMmMtNGVjMS05ZWIwLWYxNmVkNDJhMzc3YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIyMjM3MGEwZC01MzkxLTExZjEtYmE0MS01YTkyYWVlNTc2OTgiLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImZ3VmNJRDJDb3BwYSI6IjIyMzE5YmEyLTUzOTEtMTFmMS1iOWM2LTdjMWU1MmZmMWY1YyIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiMjIzMTliYTItNTM5MS0xMWYxLWI5YzYtN2MxZTUyZmYxZjVjIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSwxMDAxMywxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMCwxMDAyMSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3OTIwMTgyMzQ1OSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk1qSXpNVGxpWVRJdE5UTTVNUzB4TVdZeExXSTVZell0TjJNeFpUVXlabVl4WmpWaiIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzkyODgyMjMsImlhdCI6MTc3OTIwMTgyMywianRpIjoiNzdkNmY1NGMtNGVkOC00NmZjLWEzNTEtMTRlZjYxNDliNmFkIn0.hePV9WCJ4YytToI2aMHvuRXuMTWae_HPK5-rzweDqPI&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
+
+âœ”ï¸ RakutenTV Pelis Top
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHrakutentvpelistop.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ RakutenTV Pelis Top
+https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.75&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=5983&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=1f8e6c44-30c8-4797-a406-b3fa0ef5fa89&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5&tenant_identifier=rtv
+
+âœ”ï¸ Retro Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHretroplus.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Retro Plus
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+
+âœ”ï¸ Runtime Accion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHruntimeaccion.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Runtime Accion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+
+âœ”ï¸ Sony Channel ðŸ“±
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Sony Channel ðŸ“±
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
+https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_C/SonyHD.mpd
+
+âœ”ï¸ Sony Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Sony Channel
+http://45.167.1.136:8000/play/a03d
+
+âœ”ï¸ Sony Channel
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png" group-title="ðŸŽ¬ Cine",âœ”ï¸ Sony Channel
+http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-70.playlist.m3u8
+
+
