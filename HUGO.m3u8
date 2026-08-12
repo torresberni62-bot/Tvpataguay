@@ -92,7 +92,7 @@ http://45.170.130.224:8000/play/a033/index.m3u8
 http://45.170.130.224:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay HD
-https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w1657855788.m3u8?k=6ffb59e411c8b0d4493c2e938eaf6f0ba6fa617d2468b57a7b12e5e7e7b1489b&exp=1783198876
+http://lamtv.site:8080/Arturo2025/arturito25/43480.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay",La Tele Paraguay SD
 http://45.170.130.224:8000/play/a03u/index.m3u8
