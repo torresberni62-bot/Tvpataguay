@@ -50,6 +50,8 @@ http://45.170.130.224:8000/play/a013/index.m3u8
 http://45.170.130.224:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="http://lamtv.site:8080/images/sntpy.png" group-title="Paraguay", PY | SNT
 http://lamtv.site:8080/Arturo2025/arturito25/43493.ts
+#EXTINF:-1 tvg-logo="http://lamtv.site:8080/images/telefuturo.png" group-title="Paraguay", PY | TELEFUTURO
+http://lamtv.site:8080/Arturo2025/arturito25/823.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay HD
 http://45.170.130.224:8000/play/a04m/index.m3u8
