@@ -68,6 +68,8 @@ http://45.170.130.224:8000/play/a04y/index.m3u8
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(HhkicGVMj6sv4J-iS-v6ayV7RWTbLvPXn3JaOhtXF0ZNL1DGj5045LT5ej1tqami8ug747knWy5iO7gD5nCXCeakNfxQ--2a_x5ji51RgOcl2jCqRnyPSTyPBv_U-hmI777YojuyzI4ChdkwGfyKhA)/cloud/3/xak2lou/s/live-480.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ltJQvZd.png" group-title="Paraguay",Sur TV Paraguay SD
 http://45.170.130.224:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltJQvZd.png" group-title="Paraguay",Sur TV  opc1 Paraguay SD
+https://24.bemtv.cn/STREAM/13083/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rCEu3fM.png" group-title="Paraguay",América TV Paraguay SD
 http://45.170.130.224:8000/play/a02o/index.m3u8
@@ -86,10 +88,13 @@ http://45.170.130.224:8000/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pUEkaiW.png" group-title="Paraguay",NPY Paraguay HD
 http://45.170.130.224:8000/play/a035/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUEkaiW.png" group-title="Paraguay",NPY opc1 Paraguay HD
+https://24.bemtv.cn/STREAM/13084/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yd9Dw2G.png" group-title="Paraguay",Paravisión Paraguay SD
 http://45.170.130.224:8000/play/a032/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yd9Dw2G.png" group-title="Paraguay",Paravisión opc1 Paraguay SD
+https://24.bemtv.cn/STREAM/13085/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="Paraguay",Paraguay TV SD
 http://45.170.130.224:8000/play/a02r/index.m3u8
 
