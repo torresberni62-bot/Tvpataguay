@@ -105,6 +105,9 @@ http://45.170.130.224:8000/play/a03u/index.m3u8
 http://45.170.130.224:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pUEkaiW.png" group-title="Paraguay",NPY opc1 Paraguay HD
 https://24.bemtv.cn/STREAM/13084/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yd9Dw2G.png" group-title="Paraguay",Paravisión opc2 Paraguay SD
+http://ck.ixtchel.site:8080/rslamtv/rslamtv/320..m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yd9Dw2G.png" group-title="Paraguay",Paravisión Paraguay SD
 http://45.170.130.224:8000/play/a032/index.m3u8
 
