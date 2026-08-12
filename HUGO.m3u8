@@ -67,6 +67,7 @@ http://45.170.130.224:8000/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgIv5QK.png" group-title="Paraguay",Trece TV Paraguay HD [Opc.3]
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(5wR2bR3aolX1ipQyUd2jW1rEDOAixUC_M6uEmt4PTEa6bxA6lRzWxJMYGnyy1g1sm46DWa-ycmSRUY9yd_zAHFK4ykshUoXrt-mqh-9d4xBsGnZHh1EeCgHgi3oFDTAdft4-usZutCh1UbMc9fgC0A)/cloud/3/xak2neu/s/live-480.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Paraguay",Unicanal Paraguay HD
 http://45.170.130.224:8000/play/a03o/index.m3u8
 
@@ -74,9 +75,10 @@ http://45.170.130.224:8000/play/a03o/index.m3u8
 http://45.170.130.224:8000/play/a04y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Paraguay",Unicanal Paraguay HD [Opc.3]
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(HhkicGVMj6sv4J-iS-v6ayV7RWTbLvPXn3JaOhtXF0ZNL1DGj5045LT5ej1tqami8ug747knWy5iO7gD5nCXCeakNfxQ--2a_x5ji51RgOcl2jCqRnyPSTyPBv_U-hmI777YojuyzI4ChdkwGfyKhA)/cloud/3/xak2lou/s/live-480.m3u8
+http://ck.ixtchel.site:8080/rslamtv/rslamtv/325.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ltJQvZd.png" group-title="Paraguay",Sur TV Paraguay SD
 http://45.170.130.224:8000/play/a036/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ltJQvZd.png" group-title="Paraguay",Sur TV  opc1 Paraguay SD
 https://24.bemtv.cn/STREAM/13083/chunks.m3u8
 
