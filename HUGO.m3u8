@@ -5034,3 +5034,32 @@ https://meintvonlinehd.site/live/LOLOTVPLATINO10/N7nFnyksZP/18458.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Bo7R-1TgvF6-8zCGVeLJzLz455Y-cdNPHtpEZxyPPHT1tQEHxpS4VOnSe_nrbxDQzm6y4S2Z=s900-c-k-c0x00ffffff-no-rj" group-title="PARAGUAY", ABC PARAGUAY
 https://meintvonlinehd.site/live/LOLOTVPLATINO10/N7nFnyksZP/157647.ts
 
+#EXTINF:-1 tvg-id="DSPORTS.HD.(COL)(DTSCHD).co" tvg-logo="https://i.postimg.cc/QMMdzt5P/DSports.png" group-title="ESPN OPC1",DSports
+http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
+#EXTINF:-1 tvg-chno="226" tvg-id="I205.94102.schedulesdirect.org" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png" group-title="ESPN OPC1"h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS OPC1
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-chno="226" tvg-id="I205.94102.schedulesdirect.org" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png" group-title="ESPN OPC1"h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS 0PC2
+http://190.117.20.37:8000/play/a08d/index
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-logo="https://i.postimg.cc/5tpfqMRt/Fox-Broadcasting-Company-logo-(2019)-svg.webp" group-title="ESPN OPC1",Fox Sports
+http://190.61.101.11:7050/play/a0a9/index.m3u8?hls
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tyc-sports-ar.png" group-title="ESPN OPC1",TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="ESPN OPC1",ESPN 1
+http://190.108.93.180:8000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-2-ar.png" group-title="ESPN OPC1",ESPN 2
+http://190.108.93.180:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.co" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-3-ar.png" group-title="ESPN OPC1",ESPN 3
+http://190.108.93.180:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.4.co" tvg-logo="https://i.postimg.cc/NM7rFz3n/ESPN-4-logo-svg.png" group-title="ESPN OPC1",ESPN 4
+http://190.61.101.11:7050/play/a08p/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-logo="https://i.postimg.cc/qqdPDzS9/ESPN-5-logo-svg.png" group-title="ESPN OPC1",ESPN 5
+http://190.61.101.11:7050/play/a06j/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-logo="https://i.postimg.cc/Wbz54bCn/ESPN-6-logo-svg.webp" group-title="ESPN OPC1",ESPN 6
+http://190.61.101.11:7050/play/a05e/index.m3u8?hls
+#EXTINF:-1 tvg-id="espnpremium.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png" group-title="ESPN OPC1",ESPN Premium
+http://190.217.66.92:8000/play/a0pj/index.m3u8?hls
+
+
