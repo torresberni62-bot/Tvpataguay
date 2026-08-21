@@ -5039,7 +5039,7 @@ http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 #EXTINF:-1 tvg-chno="226" tvg-id="I205.94102.schedulesdirect.org" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png" group-title="ESPN OPC1"h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS OPC1
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-chno="226" tvg-id="I205.94102.schedulesdirect.org" tvg-logo="https://cdn.myportfolio.com/41b9564f-0fa3-4ce0-88f3-0d16ca687069/397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png" group-title="ESPN OPC1"h=a4e063d0c8330c4c9eb909359861edc3",DSPORTS 0PC2
-http://190.117.20.37:8000/play/a08d/index
+http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="foxsports2.ar" tvg-logo="https://i.postimg.cc/5tpfqMRt/Fox-Broadcasting-Company-logo-(2019)-svg.webp" group-title="ESPN OPC1",Fox Sports
 http://190.61.101.11:7050/play/a0a9/index.m3u8?hls
 #EXTINF:-1 tvg-id="tycsports.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tyc-sports-ar.png" group-title="ESPN OPC1",TyC Sports
