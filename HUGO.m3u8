@@ -41,7 +41,7 @@ http://lamtv.site:8080/Arturo2025/arturito25/29698.ts
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EPbsTVJ.jpeg" group-title="Paraguay", PY | ABC TV
 http://lamtv.site:8080/Arturo2025/arturito25/43495.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD
-http://ck.ixtchel.site:8080/rslamtv/rslamtv/322..m3u8
+http://ck.ixtchel.site:8080/rslamtv/rslamtv/322.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay SD [Opc.2]
 http://45.170.130.224:8000/play/a013/index.m3u8
