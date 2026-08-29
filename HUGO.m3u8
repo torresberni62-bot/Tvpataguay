@@ -1,6 +1,10 @@
 
 ############### 🇵🇾 TIGO SPORTS 🇵🇾 ###############
 #EXTM3U
+#EXTINF:-1 tvg-name="TIGO SPORTS OPC 1" tvg-logo="https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/001.webp" group-title="TIGO SPORTS" ",TIGO SPORTS OPC 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TIGOSPORTSEVENTOS1
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
 #EXTINF:-1 tvg-id="TIGO-SPORTS-OPC-2" tvg-name="TIGO SPORTS OPC 2" tvg-logo="https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/002.webp" group-title=" TIGO SPORTS ",TIGO SPORTS OPC 2
 #EXTVLCOPT=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37
