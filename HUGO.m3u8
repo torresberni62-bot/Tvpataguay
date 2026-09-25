@@ -1,6 +1,15 @@
 
 ############### 🇵🇾 TIGO SPORTS 🇵🇾 ###############
 #EXTM3U
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Tigo Sports 2" tvg-name="Tigo Sports 2" tvg-logo="https://i.ibb.co/8D6KXGJ2/tigosports.webp" group-title="TIGO SPORTS",Tigo Sports 2 opc3
+#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 13)
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:live-caching=5000
+http://daleplay.vip:8080/live/7109212/710472267/154299.m3u
+
 #EXTINF:-1 tvg-name="TIGO SPORTS OPC 1" tvg-logo="https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/001.webp" group-title="TIGO SPORTS" ",TIGO SPORTS OPC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TIGOSPORTSEVENTOS1
