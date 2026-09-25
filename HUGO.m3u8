@@ -1,8 +1,6 @@
 
 ############### 🇵🇾 TIGO SPORTS 🇵🇾 ###############
 #EXTM3U
-#EXTM3U
-
 #EXTINF:-1 tvg-id="Tigo Sports 2" tvg-name="Tigo Sports 2" tvg-logo="https://i.ibb.co/8D6KXGJ2/tigosports.webp" group-title="TIGO SPORTS",Tigo Sports 2 opc3
 #EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 13)
 #EXTVLCOPT:http-reconnect=true
