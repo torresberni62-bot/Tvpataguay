@@ -11,11 +11,8 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index.m3u8
 
 #EXTINF:-1 tvg-id="Tigo Sports 2" tvg-name="Tigo Sports 2" tvg-logo="https://i.ibb.co/8D6KXGJ2/tigosports.webp" group-title=" TIGO SPORTS ",Tigo Sports 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"49b2c0e7037042b2aff9f064e0bb3311":"83849e30adf85440550292693147fbf7"}
-https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd?dvr_window_length=30
+#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 13)
+http://164.37.100.242:8089/play/hls/eyJpdiI6InIrQ2EzOHlFZmZWQ1Q2RTl5TUhCbGc9PSIsInZhbHVlIjoibWNjT0hSbjhsUE9IRDlNM0ZBMHFhcmdDN0ljTXQyWE4yZXVmMS8ySVJUWVoybFRmLytGNjRFeGYrS01HbDU5QSIsIm1hYyI6IjBjNjZjOTNkMDJlNGUyNmUyYzk0YjBiOTA5ODc2YTdlYWJkYzA0MzZmZjBmMThlYWJhZjRmODZlMGJiOWVmY2MiLCJ0YWciOiIifQ==/e80f5d20-37a7-404c-aba6-74d46ef5a2e7.m3u8?lvtoken=eyJpdiI6ImFPUkI4Q0RBOTJNVDNZNmlpYktycGc9PSIsInZhbHVlIjoiTVJKWXdkS0Qyc3Bod3RPTytIT1V6VlBXUEJjL0VSQnNtNWFIUm9XM1lKKzhzY2dCc3NZNHBWUTVuWmttRitsNG9EQzEwM2REY3J4RGY3TDJpK1o0OXc1TFIxbXZpckI1d3NNeGwvVlkydVd0dnNUL3BtOURBYnptUWN1aVM4eEtQb0haejFoenNHVytnTXQyeHVqNDJTR3AvUjNLdHBUNDNkWWIweFhvbGJQVFNCU2xMSlhRc0t0NnpyWTVhTmRFVlk2R3l4TmtrbXlUOG9ONFBJRHd4ZlExQWNsV0hTSVBZRUZXeG5HOTg2cz0iLCJtYWMiOiIyZTJmNWJmMDNjNjhmMTg2OTdiYzU5YTc4NzRjYTQyNDM1NWVhMmNkYjk0MTUxMmI0ZGI3NTMwZGFkYzk5OTU4IiwidGFnIjoiIn0%3D&r=19ec7d&rt=582eaaac8b01516478c2257389a45071
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
