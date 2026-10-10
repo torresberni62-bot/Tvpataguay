@@ -67,8 +67,66 @@ http://45.170.130.224:8000/play/a04i/index.m3u8
 #EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png",TIGO BOLIVIA
 http://lamtv.site:8080/Arturo2025/arturito25/29698.ts
 
+#EXTINF:-1 tvg-id="SNT" tvg-name="SNT" tvg-logo="https://television.com.py/wp-content/uploads/2016/09/SNT-logo.jpg" group-title="PARAGUAY",SNT
+https://d3epa8orr2qy3m.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+
+#EXTINF:-1 tvg-id="C9N" tvg-name="C9N" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",C9N
+http://181.79.87.130:8000/play/a0c1/index.m3u8
+
+#EXTINF:-1 tvg-id="TELEFUTURO" tvg-name="TELEFUTURO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5JENtykTU3KdjhKdStofGiRKe6dN4YOeRif5zK0MeWXyL3ok1zmMJy17L&s=10" group-title="PARAGUAY",TELEFUTURO
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w1645675809.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-id="PARAVISION" tvg-name="PARAVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjkqJbhmb8TQdSpmxpoqakDaK59aKpH0sZTEEJALD7Q&s=10" group-title="PARAGUAY",PARAVISION
+http://45.170.130.224:8000/play/a032/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="MI TV" tvg-name="MI TV" tvg-logo="https://tinyurl.com/Mitvparaguayete" group-title="PARAGUAY",MI TV
+https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w757160878.m3u8
+
+#EXTINF:-1 tvg-id="TIGO" tvg-name="TIGO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUmI76Me1rICemLAH_uAJEl0oi-fRLMke10nHCC8litA&s" group-title="PARAGUAY",TIGO
+http://45.170.130.224:8000/play/a04k/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="NPY-1" tvg-name="NPY" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",NPY
+https://rds3tf.desdeparaguay.net/npy/npy_int_alta/chunklist_w1532246486.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-id="GENTV" tvg-name="GENTV" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",GENTV
+http://45.170.130.224:8000/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-id="RCC" tvg-name="RCC" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",RCC
+https://copacoradios.desdeparaguay.net/rcctv/rcctv/chunklist_w1584412149.m3u8?admin=nacion
+
+#EXTINF:-1 tvg-id="LA-TELE-1" tvg-name="LA TELE" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",LA TELE
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/chunklist_w1753091497.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-id="ÑANDUTY-TV" tvg-name="ÑANDUTY TV" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",ÑANDUTY TV
+https://nanduti.b-cdn.net/Source.m3u8
+
+#EXTINF:-1 tvg-id="NPY-2" tvg-name="NPY" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",NPY
+https://copacogen.desdeparaguay.net/npy/npy_py_alta/chunklist_w665042620.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-id="NEX-TV" tvg-name="NEX TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg7zrIkar6b9ZRlhqCsmyk8FTM_0btWRdYLnk1HvIkYP5gNc48D1JpHUyQeBeZJv7BO2T4bXI0Nki2iAk6fMNWRRE1fhraPfARYtpOBsGnE7oNHxLqSO1RMf-4WEDwej9Hk1xhbhyEnM8AuIpSm8UXwFB1nArjVA_oBBrEzVObfEcOuVEoSLoZVe5GSrI7w=s850" group-title="PARAGUAY",NEX TV
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 tvg-id="VNUS" tvg-name="VNUS" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Venus-Media-TV-Paraguay-en-vivo-Online.png" group-title="PARAGUAY",VNUS
+https://copaco.desdeparaguay.net:443/venusmedia/venusmedia/chunklist_w2091978855.m3u8
+
+#EXTINF:-1 tvg-id="LATELE-2" tvg-name="LATELE" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_10/large_ltl.png.857947af5074cc4faa0573b58439da3d.png" group-title="PARAGUAY",LATELE
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/chunklist_w721683875.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-id="POPU-TV" tvg-name="POPU TV" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",POPU TV
+https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
+
+#EXTINF:-1 tvg-id="RED-DIGITAL" tvg-name="RED DIGITAL" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",RED DIGITAL
+https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
+
+#EXTINF:-1 tvg-id="PARAGUAY-TV" tvg-name="PARAGUAY TV" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",PARAGUAY TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+
+#EXTINF:-1 tvg-id="DEL-REY-TV" tvg-name="DEL REY TV" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",DEL REY TV
+https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EPbsTVJ.jpeg" group-title="Paraguay", PY | ABC TV
-http://lamtv.site:8080/Arturo2025/arturito25/43495.ts
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD
 http://ck.ixtchel.site:8080/rslamtv/rslamtv/322.m3u8
 
@@ -77,8 +135,10 @@ http://45.170.130.224:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD [Opc.3]
 http://45.170.130.224:8000/play/a04w/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://lamtv.site:8080/images/sntpy.png" group-title="Paraguay", PY | SNT
 http://lamtv.site:8080/Arturo2025/arturito25/43493.ts
+
 #EXTINF:-1 tvg-logo="http://lamtv.site:8080/images/telefuturo.png" group-title="Paraguay", PY | TELEFUTURO
 http://lamtv.site:8080/Arturo2025/arturito25/823.ts
 
@@ -2665,195 +2725,6 @@ https://1nyaler.streamhostingcdn.top/stream/103/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/105/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xWgt9N4/enlace-tbn.png" group-title="Religiosos",Enlace TBN (Internacional)
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="Religiosos",EWTN (Internacional)
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zCVh765.png" group-title="Religiosos",Bethel TV (Internacional)
-https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFD97QNq/tv-mana-espanol.png" group-title="Religiosos",TV Maná Español (Internacional)
-https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7B4wSM.png" group-title="Religiosos",CBN Español (Internacional)
-https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="Religiosos",Sophia TV Español (Internacional)
-https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religiosos",Ágape TV Canal 8 (El Salvador)
-https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="Religiosos",TaberTV (El Salvador)
-https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBksJ4JP/josue-tv.png" group-title="Religiosos",Josué TV (El Salvador)
-https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PvpXk0Mn/el-camino-tv.png" group-title="Religiosos",El Camino TV (El Salvador)
-https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0y8vN381/tv-getsemani.png" group-title="Religiosos",TV Getsemaní (El Salvador)
-https://serversv.com:8080/hls/tvgetsemani.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9m7Ny9gk/tv-leon-de-juda.png" group-title="Religiosos",TV León de Judá (El Salvador)
-https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ChonoKb.png" group-title="Religiosos",TV CRET (El Salvador)
-https://radiocret.net:8082/hls/tvcret.m3u8
-
-#EXTINF:-1 tvg-logo="https://ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png" group-title="Religiosos",Ministerios Ebenezer (Guatemala)
-https://5e85d90130e77.streamlock.net/6018/6018/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA3T5bGXkBuQsXbc8Mj2ZEv-e-3Id7CtJnk_hBTt0IcPIMghp9lwDpUp29I6rc2gTouTx5UDwEaqnJ1ReaIgadQDEsHLP5qml93IDPMxUWd6-ekxv76_yEDfZ2MGYcqCuNXNPnSP1BmZRhr1a9nNgdL132y6FTl2oibyUKURUTUckkwtf9_TGUxh7gUVJj/s600/ebenezer-tv.png" group-title="Religiosos",Ebenezer TV (Honduras / San Pedro Sula)
-https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dJ6rVNCz/Vida-al-Maximo-TV.png" group-title="Religiosos",Vida al Maximo TV
-https://lbgo.bozztv.com/ssh101/ssh101/vidaalmaximo11/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religiosos",Unife TV (Perú)
-https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="Religiosos",Canal Orbe 21 (Argentina)
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="Religiosos",TV Solidaria Remar (Argentina)
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="Religiosos",Canal 13 Jujuy (Argentina)
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MsCnwRA.png" group-title="Religiosos",Canal 4 San Juan (Argentina)
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9BwZyhM.jpg" group-title="Religiosos", Canal 55 Telemorisco TV [No 24/7] (Colombia - Bogotá)
-http://canal.mediaserver.com.co/live/telemorisco.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ydoBp3b.png" group-title="Religiosos",Avivamiento TV (Colombia)
-https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="Religiosos",Cristovisión (Colombia)
-https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gBZFZNv.png" group-title="Religiosos",Tele Amiga (Colombia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ4kiXP.png" group-title="Religiosos",Tele Vid (Colombia)[Inestable]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cw5k96N.png" group-title="Religiosos",Frecuencia F TV (Colombia)
-https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rfnFqU3.png" group-title="Religiosos",Canal Oración Con Son (Colombia)
-https://canal.mediaserver.com.co/live/oracionconson.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D1s1Q3k.png" group-title="Religiosos",Canal Telefamilia (Colombia)
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="Religiosos",Tu Universo TV (Colombia)
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8QbvXva.png" group-title="Religiosos",TNE TV Evangélica (Chile)
-https://v2.tustreaming.cl/tnetv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whYQVZQG/sembrador-tv.png" group-title="Religiosos",El Sembrador TV (Chile)
-https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNs1Xz6B/299614369-426056002888660-5252932446607294666-n-removebg-preview.png" group-title="Religiosos",Gracia TV (Chile)
-https://v4.tustreaming.cl/graciatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmNA8hq.png" group-title="Religiosos",Televida Chillán (Chile)
-https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v7SA92F.png" group-title="Religiosos",MTNA TV (Chile)
-https://live.mtna.tv/hls/mtna/mtna.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQ4ggTw.png" group-title="Religiosos",Canal ISB San Bernardo (Chile)
-https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="Religiosos",NCTV San Joaquín (Chile)
-https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VlKl2VB.png" group-title="Religiosos",VC Online (Chile)
-https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yn5M8dw/telefides-costa-rica.png" group-title="Religiosos",Telefides (Costa Rica)
-https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mbB8hqL/blanco-crop.png" group-title="Religiosos",San José TV (Costa Rica)
-https://rtmp.info/sanjosetv/envivo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HQGBqGU.png" group-title="Religiosos", Unsion TV (Azuay)
-http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VqwyCV1.png" group-title="Religiosos",Asomavisión (Ecuador)
-https://asomatv.cloud-ip.cc/livestream/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religiosos",TV Universal (Ecuador)
-https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TyckDSV.png" group-title="Religiosos",IeanJesus (Ecuador)
-https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CYldC2R.png" group-title="Religiosos", Puruwa TV (Ecuador - Chimborazo)
-https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Religiosos",Reforma TV (Venezuela)
-https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="Religiosos", Ñuka TV [No 24/7] (Pichincha)
-https://cloudvideo.servers10.com:8081/8118/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="Religiosos",JN19 (Perú)
-https://servilive.com:3028/live/jntv19live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gt6UvG8.png" group-title="Religiosos",Escúchame Radio TV (Nicaragua)
-https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dDZnyUA.jpeg" group-title="Religiosos",Olam Metro TV (Nicaragua)
-https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yKzV7m7.png" group-title="Religiosos",Bendición Channel (Honduras)
-https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VKYzFpZ.png" group-title="Religiosos",Oasis TV (Honduras)
-https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="Religiosos",UMVirtual Montemorelos (México)
-https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vMdyLVv.png" group-title="Religiosos",Zoe Visión (Puerto Rico)
-https://tvdatta.com:3508/live/zoevisiontvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Religiosos", Unifranz (Bolivia)
-https://live.enhdtv.com:8081/8192/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WGkMt2j.png" group-title="Religiosos",Red ADvenir TV (Bolivia)
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLwLlWl.png" group-title="Religiosos",XTOTV (Bolivia)
-#EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
-http://190.104.15.135/0.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T2vgUvN.png" group-title="Religiosos",Canal+ Uruguay (Uruguay)
-#EXTVLCOPT:http-referrer=https://tv.canalmasuruguay.com/
-https://tv.canalmasuruguay.com/hls/canalmas.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oGvsUH9.png" group-title="Religiosos",TBN España (España)
-https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="Religiosos",Canal Diocesano Toledo (España)
-https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA872/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Canela TV Latinoamérica
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
 
@@ -3071,35 +2942,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12864
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/aguilaroja_c_1920x1080_0.jpg" group-title="RUN:TIME TV",Águila Roja
 https://djpkijcsi04ot.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-534sg92d7s442/aguro.m3u8
-
-
-#EXTM3U
-
-✔️EVENTOS⚽ 1
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 1
-http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-02.playlist.m3u8
-
-✔️EVENTOS⚽ 2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-✔️ EVENTOS⚽ 3
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️ EVENTOS⚽ 3
-
-✔️EVENTOS⚽ 4
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 4
-https://ag9wzq.fubohd.com/espnpremium/mono.m3u8?token=5a3a932a1ec8422cc73cee8137ccfa0397c598b7-86-1776645155-1776627155
-
-✔️EVENTOS⚽ 5
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 5
-https://pecdl1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=186.39.123.75&token=481d6d188c3bd9633122ed8b0379bf0cef4ca80d-ef-1776673254-1776619254
-
-✔️EVENTOS⚽ 6
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 6
-
-
-✔️EVENTOS⚽ 7
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 7
 
 ✔️ Animal Planet Discovery 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="🚜 Cultura",✔️ Animal Planet Discovery 📱
@@ -5216,62 +5058,7 @@ http://190.61.101.11:7050/play/a05e/index.m3u8?hls
 #EXTINF:-1 tvg-id="espnpremium.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png" group-title="ESPN OPC1",ESPN Premium
 
 
-#EXTINF:-1 tvg-id="SNT" tvg-name="SNT" tvg-logo="https://television.com.py/wp-content/uploads/2016/09/SNT-logo.jpg" group-title="PARAGUAY",SNT
-https://d3epa8orr2qy3m.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF:-1 tvg-id="C9N" tvg-name="C9N" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",C9N
-http://181.79.87.130:8000/play/a0c1/index.m3u8
-
-#EXTINF:-1 tvg-id="TELEFUTURO" tvg-name="TELEFUTURO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5JENtykTU3KdjhKdStofGiRKe6dN4YOeRif5zK0MeWXyL3ok1zmMJy17L&s=10" group-title="PARAGUAY",TELEFUTURO
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w1645675809.m3u8?admin=tvaccion
-
-#EXTINF:-1 tvg-id="PARAVISION" tvg-name="PARAVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjkqJbhmb8TQdSpmxpoqakDaK59aKpH0sZTEEJALD7Q&s=10" group-title="PARAGUAY",PARAVISION
-http://45.170.130.224:8000/play/a032/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="MI TV" tvg-name="MI TV" tvg-logo="https://tinyurl.com/Mitvparaguayete" group-title="PARAGUAY",MI TV
-https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w757160878.m3u8
-
-#EXTINF:-1 tvg-id="TIGO" tvg-name="TIGO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUmI76Me1rICemLAH_uAJEl0oi-fRLMke10nHCC8litA&s" group-title="PARAGUAY",TIGO
-http://45.170.130.224:8000/play/a04k/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="NPY-1" tvg-name="NPY" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",NPY
-https://rds3tf.desdeparaguay.net/npy/npy_int_alta/chunklist_w1532246486.m3u8?admin=tvaccion
-
-#EXTINF:-1 tvg-id="GENTV" tvg-name="GENTV" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",GENTV
-http://45.170.130.224:8000/play/a04j/index.m3u8
-
-#EXTINF:-1 tvg-id="RCC" tvg-name="RCC" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",RCC
-https://copacoradios.desdeparaguay.net/rcctv/rcctv/chunklist_w1584412149.m3u8?admin=nacion
-
-#EXTINF:-1 tvg-id="LA-TELE-1" tvg-name="LA TELE" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",LA TELE
-https://copacotf.desdeparaguay.net/latele/latele_py_alta/chunklist_w1753091497.m3u8?admin=tvaccion
-
-#EXTINF:-1 tvg-id="ÑANDUTY-TV" tvg-name="ÑANDUTY TV" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",ÑANDUTY TV
-https://nanduti.b-cdn.net/Source.m3u8
-
-#EXTINF:-1 tvg-id="NPY-2" tvg-name="NPY" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",NPY
-https://copacogen.desdeparaguay.net/npy/npy_py_alta/chunklist_w665042620.m3u8?admin=tvaccion
-
-#EXTINF:-1 tvg-id="NEX-TV" tvg-name="NEX TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg7zrIkar6b9ZRlhqCsmyk8FTM_0btWRdYLnk1HvIkYP5gNc48D1JpHUyQeBeZJv7BO2T4bXI0Nki2iAk6fMNWRRE1fhraPfARYtpOBsGnE7oNHxLqSO1RMf-4WEDwej9Hk1xhbhyEnM8AuIpSm8UXwFB1nArjVA_oBBrEzVObfEcOuVEoSLoZVe5GSrI7w=s850" group-title="PARAGUAY",NEX TV
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
-#EXTINF:-1 tvg-id="VNUS" tvg-name="VNUS" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Venus-Media-TV-Paraguay-en-vivo-Online.png" group-title="PARAGUAY",VNUS
-https://copaco.desdeparaguay.net:443/venusmedia/venusmedia/chunklist_w2091978855.m3u8
-
-#EXTINF:-1 tvg-id="LATELE-2" tvg-name="LATELE" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_10/large_ltl.png.857947af5074cc4faa0573b58439da3d.png" group-title="PARAGUAY",LATELE
-https://copacotf.desdeparaguay.net/latele/latele_py_alta/chunklist_w721683875.m3u8?admin=tvaccion
-
-#EXTINF:-1 tvg-id="POPU-TV" tvg-name="POPU TV" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",POPU TV
-https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
-
-#EXTINF:-1 tvg-id="RED-DIGITAL" tvg-name="RED DIGITAL" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",RED DIGITAL
-https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
-
-#EXTINF:-1 tvg-id="PARAGUAY-TV" tvg-name="PARAGUAY TV" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",PARAGUAY TV
-https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
-
-#EXTINF:-1 tvg-id="DEL-REY-TV" tvg-name="DEL REY TV" tvg-logo="https://tinyurl.com/Postermax" group-title="PARAGUAY",DEL REY TV
-https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="4DmasNoticiasTV.py@SD",4DmásNoticias TV (1080p) [Not 24/7]
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
